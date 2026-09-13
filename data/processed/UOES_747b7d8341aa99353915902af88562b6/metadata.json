@@ -1,0 +1,16 @@
+{
+  "id": "UOES_747b7d8341aa99353915902af88562b6",
+  "titulo": "Indicadores de qualidade do solo em sistemas de produção agrícola em solos arenosos",
+  "titulo_normalizado": "indicadores de qualidade do solo em sistemas de producao agricola em solos arenosos",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UOES_747b7d8341aa99353915902af88562b6.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UOES_747b7d8341aa99353915902af88562b6.pdf",
+  "url_origem": "http://bdtd.unoeste.br:8080/jspui/bitstream/jspui/1769/2/Marcello%20Augusto%20Dias%20da%20Cunha.pdf",
+  "tamanho_bytes": 3160729,
+  "sha256": "216c64cf590cf3f5c2b4edbee81017cafed78c9725fe704f63cc92570e866342",
+  "baixado_em": "2026-09-12T18:12:42.619136+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-3479e9da38a9f211"
+}

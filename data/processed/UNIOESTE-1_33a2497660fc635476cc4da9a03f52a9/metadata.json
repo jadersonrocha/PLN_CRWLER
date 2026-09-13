@@ -1,0 +1,16 @@
+{
+  "id": "UNIOESTE-1_33a2497660fc635476cc4da9a03f52a9",
+  "titulo": "Percepção do acadêmico de Enfermagem sobre a temática da segurança do paciente",
+  "titulo_normalizado": "percepcao do academico de enfermagem sobre a tematica da seguranca do paciente",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNIOESTE-1_33a2497660fc635476cc4da9a03f52a9.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNIOESTE-1_33a2497660fc635476cc4da9a03f52a9.pdf",
+  "url_origem": "https://tede.unioeste.br/bitstream/tede/8343/2/Ana_Carrasco_2026.pdf",
+  "tamanho_bytes": 1183976,
+  "sha256": "f73727a74772c912bf363e6c8da67d03d21ee2b6ca241be24fd14c69ada4ecdc",
+  "baixado_em": "2026-09-12T18:23:22.125076+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-5d2463e4c02ab248"
+}

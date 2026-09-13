@@ -1,0 +1,16 @@
+{
+  "id": "PUC_GO_987e0c4731194e2e04c3421328800cc9",
+  "titulo": "A prestação de serviços à comunidade aplicada pelo Tribunal de Justiça do Estado de Goiás",
+  "titulo_normalizado": "a prestacao de servicos a comunidade aplicada pelo tribunal de justica do estado de goias",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "PUC_GO_987e0c4731194e2e04c3421328800cc9.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\PUC_GO_987e0c4731194e2e04c3421328800cc9.pdf",
+  "url_origem": "https://tede2.pucgoias.edu.br/bitstream/tede/5379/2/SIMONE%20LESSE%20MATOS%20DE%20OLIVEIRA.pdf",
+  "tamanho_bytes": 33789055,
+  "sha256": "053e4977c187b3b35a8c07c8dc3d4ee051b601e6a0bc01d0356dabe7bfbbe619",
+  "baixado_em": "2026-09-12T18:26:55.007407+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-388c5bf55cfe5afe"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "UNIOESTE-1_66037c2dcc8c318a94820c8fed686906",
+  "titulo": "Itinerário terapêutico de gestantes que demandam uso de anticoagulante em região de fronteira",
+  "titulo_normalizado": "itinerario terapeutico de gestantes que demandam uso de anticoagulante em regiao de fronteira",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNIOESTE-1_66037c2dcc8c318a94820c8fed686906.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNIOESTE-1_66037c2dcc8c318a94820c8fed686906.pdf",
+  "url_origem": "https://tede.unioeste.br/bitstream/tede/8426/2/Meirieli_Iside_Mattos_2026.pdf",
+  "tamanho_bytes": 1988635,
+  "sha256": "088b27a3803aec0ef3b84830d5528521065988c752fdbd5449e79fc950d49b5e",
+  "baixado_em": "2026-09-12T18:23:36.952364+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-25ac610fe0fc8cac"
+}

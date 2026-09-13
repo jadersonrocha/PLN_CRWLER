@@ -1,0 +1,16 @@
+{
+  "id": "UFPE_e76e16d45b19f8ee1842508ad1bfb625",
+  "titulo": "Identificação de regiões de gordura em mamas através de imagens termográficas",
+  "titulo_normalizado": "identificacao de regioes de gordura em mamas atraves de imagens termograficas",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFPE_e76e16d45b19f8ee1842508ad1bfb625.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFPE_e76e16d45b19f8ee1842508ad1bfb625.pdf",
+  "url_origem": "https://repositorio.ufpe.br/bitstream/123456789/69478/1/DISSERTA%C3%87%C3%83O%20Yurgymann%20Hansley%20da%20Silva%20de%20Medeiros.pdf",
+  "tamanho_bytes": 7213411,
+  "sha256": "3b3f091beb615d281b21dce623e95a4ecd8b6fb49aa49013c3e781e145110755",
+  "baixado_em": "2026-09-12T18:25:02.771162+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-549ed6f23000134e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "UNB_6ad10af9c2f9222c28f4374b278ecdfa",
+  "titulo": "Avaliação de testes clínicos e laboratoriais de baixo custo na predição de hospitalização e prognóstico de pacientes com covid-19",
+  "titulo_normalizado": "avaliacao de testes clinicos e laboratoriais de baixo custo na predicao de hospitalizacao e prognostico de pacientes com covid-19",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNB_6ad10af9c2f9222c28f4374b278ecdfa.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNB_6ad10af9c2f9222c28f4374b278ecdfa.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/55302/1/EdsonAlielTeixeiraDeAlmeida_DISSERT.pdf",
+  "tamanho_bytes": 3368646,
+  "sha256": "abb9f447425e4bddc892312d143f3d9d874c2955141fa3dfb235ba9aa1955044",
+  "baixado_em": "2026-09-12T19:10:24.949909+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-897919c0e058cd52"
+}

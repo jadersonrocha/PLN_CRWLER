@@ -1,0 +1,16 @@
+{
+  "id": "UNB_6371d874ddb31b650078dd853a500cd5",
+  "titulo": "Bioprospecção de extratos bacterianos do cerrado para o controle de Aedes aegypti",
+  "titulo_normalizado": "bioprospeccao de extratos bacterianos do cerrado para o controle de aedes aegypti",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNB_6371d874ddb31b650078dd853a500cd5.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNB_6371d874ddb31b650078dd853a500cd5.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/55267/1/CaioDeAzevedoLima_DISSERT.pdf",
+  "tamanho_bytes": 2018857,
+  "sha256": "e9d58d5239e154ce7d59190a8717e70881400d920e0a8a1a1b3284fa5ee5f772",
+  "baixado_em": "2026-09-12T19:11:22.707201+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-39dfe2afd8577050"
+}

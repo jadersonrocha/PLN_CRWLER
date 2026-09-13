@@ -1,0 +1,1830 @@
+{
+  "resultCount": 189817,
+  "records": [
+    {
+      "authors": {
+        "primary": {
+          "Gonçalves, Bruna Maria Bevervanso": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UEPG-25_2fa89c90f94e031951763edcfd1f1ae4",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "DFT"
+        ],
+        [
+          "Flavonoides"
+        ],
+        [
+          "Clitoria ternatea Linn"
+        ],
+        [
+          "filtros solares orgânicos"
+        ],
+        [
+          "PCM"
+        ],
+        [
+          "simulação"
+        ],
+        [
+          "efeito solvente"
+        ],
+        [
+          "água"
+        ],
+        [
+          "ODS3"
+        ],
+        [
+          "ODS6"
+        ],
+        [
+          "ODS12"
+        ],
+        [
+          "Flavonoids"
+        ],
+        [
+          "organic filters"
+        ],
+        [
+          "simulation"
+        ],
+        [
+          "solvent effect"
+        ],
+        [
+          "NATURAL SCIENCES::Biology::Terrestrial, freshwater and marine ecology"
+        ],
+        [
+          "SDG3"
+        ],
+        [
+          "SDG6"
+        ],
+        [
+          "SDG12"
+        ]
+      ],
+      "title": "Investigação (in sillico) do potencial dos fitoquímicos flavonoides Kaempferol, Quercetina e Miricetina da planta Clitoria ternatea L. como protetores solares",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Ferreira, Gleison Miguel Lissemerki": {
+            "profile": [
+              "http://lattes.cnpq.br/0403844908034032"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_78cd9c905ea925316b538bf75a591ba3",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Older adults"
+        ],
+        [
+          "Functional capacity"
+        ],
+        [
+          "Sarcopenia"
+        ],
+        [
+          "Idosos"
+        ],
+        [
+          "Capacidade funcional"
+        ],
+        [
+          "Sarcopenia"
+        ]
+      ],
+      "title": "Associações de testes funcionais com a sarcopenia e marcadores multidimensionais em idosos",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3816",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3816"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Mascarenhas, Amanda Sofia Silva": {
+            "profile": [
+              "http://lattes.cnpq.br/4221939211670490"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_218546a959f08f3d5cec0ccca2660e99",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE"
+        ],
+        [
+          "Alzheimer disease"
+        ],
+        [
+          "Mild cognitive impairment"
+        ],
+        [
+          "Hypometabolism"
+        ],
+        [
+          "Nuclear medicine"
+        ],
+        [
+          "Doença de Alzheimer"
+        ],
+        [
+          "Comprometimento cognitivo leve"
+        ],
+        [
+          "PET-FDG"
+        ],
+        [
+          "Hipometabolismo"
+        ],
+        [
+          "Medicina nuclear"
+        ]
+      ],
+      "title": "Acurácia do PET FDG no diagnóstico precoce da Doença de Alzheimer em indivíduos com comprometimento cognitivo leve: uma revisão sistemática e metanálise",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3821",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3821"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Coutinho, Larissa Feitosa de Assis": {
+            "profile": [
+              "http://lattes.cnpq.br/4073290540767646"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_b91959078fed1523fd0bd2b4093b3450",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE"
+        ],
+        [
+          "Wounds"
+        ],
+        [
+          "Quality of life"
+        ],
+        [
+          "Gerontology"
+        ],
+        [
+          "Nursing"
+        ],
+        [
+          "Feridas"
+        ],
+        [
+          "Qualidade de vida"
+        ],
+        [
+          "Gerontologia"
+        ],
+        [
+          "Enfermagem"
+        ]
+      ],
+      "title": "Impacto social na qualidade de vida de pessoas idosas com ferida de difícil cicatrização em um ambulatório de feridas",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3822",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3822"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Sousa, Thiago Soares": {
+            "profile": [
+              "http://lattes.cnpq.br/0602858437916034"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_6f6ab99a035d1eede95384f690b68f6d",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS SOCIAIS APLICADAS::DIREITO"
+        ],
+        [
+          "Neurodiversity"
+        ],
+        [
+          "Tax inclusion"
+        ],
+        [
+          "Unified Health System"
+        ],
+        [
+          "Public policies"
+        ],
+        [
+          "Reduction of inequalities"
+        ],
+        [
+          "Tax law perspective"
+        ],
+        [
+          "Inclusão tributária"
+        ],
+        [
+          "Sistema Único de Saúde"
+        ],
+        [
+          "Políticas públicas"
+        ],
+        [
+          "Redução de desigualdades"
+        ],
+        [
+          "Perspectiva do direito tributário"
+        ]
+      ],
+      "title": "Neurodiversidade e inclusão tributária: direito tributário como ferramenta de concretização de políticas públicas para as pessoas com neurodivergência.",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3832",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3832"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Pasqual, Guilherme Varejão Silva": {
+            "profile": [
+              "http://lattes.cnpq.br/4252367125082663"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_071c636cf8d5091f656b031fbadeff08",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE"
+        ],
+        [
+          "Poly(vinyl alcohol)/chitosan nanofibers"
+        ],
+        [
+          "Mastoparan-MO peptide"
+        ],
+        [
+          "Ciprofloxacin"
+        ],
+        [
+          "Tissue regeneration"
+        ],
+        [
+          "Skin infections"
+        ],
+        [
+          "Resistant bacteria and regenerative activity"
+        ],
+        [
+          "Nanofibras de poli(álcool vinílico)/quitosana"
+        ],
+        [
+          "Peptídeo Mastoparano-MO"
+        ],
+        [
+          "Ciprofloxacino"
+        ],
+        [
+          "Regeneração tecidual"
+        ],
+        [
+          "Infecções cutâneas"
+        ],
+        [
+          "Bactérias resistentes e atividade regenerativa"
+        ]
+      ],
+      "title": "Desenvolvimento e avaliação de scaffolds de nanofibras bioativas com atividade regenerativa incorporadas com Mastoparano-MO e ciprofloxacino contra bactérias resistentes",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3829",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3829"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Santos, Kélita Lourrany Teixeira": {
+            "profile": [
+              "http://lattes.cnpq.br/2832153172220808"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_d21bf59819f0febd6867962a62131575",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE"
+        ],
+        [
+          "Chitinases"
+        ],
+        [
+          "Glycoside hydrolases"
+        ],
+        [
+          "Genomic analysis"
+        ],
+        [
+          "Enzymatic activity"
+        ],
+        [
+          "Paenibacillus elgii"
+        ],
+        [
+          "Quitinases"
+        ],
+        [
+          "Glicosil-hidrolases"
+        ],
+        [
+          "Análise genômica"
+        ],
+        [
+          "Atividade enzimática"
+        ]
+      ],
+      "title": "Avaliação das condições de cultivo e caracterização da produção de quitinases por Paenibacillus elgii AC13",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3830",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3830"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Santos, Rafael Lavarini dos": {
+            "profile": [
+              "http://lattes.cnpq.br/3570392672308115"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_4c56f65dd3f01e32ddcf6bb020182ece",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE"
+        ],
+        [
+          "Resistance training"
+        ],
+        [
+          "Exerkines"
+        ],
+        [
+          "Inflammation"
+        ],
+        [
+          "Endothelial dysfunction"
+        ],
+        [
+          "Oxidative stress"
+        ],
+        [
+          "Chronic kidney disease"
+        ],
+        [
+          "Treinamento resistido"
+        ],
+        [
+          "Exercínas"
+        ],
+        [
+          "Inflamação"
+        ],
+        [
+          "Disfunção endotelial"
+        ],
+        [
+          "Estresse oxidativo"
+        ],
+        [
+          "Doença renal crônica"
+        ]
+      ],
+      "title": "Óxido nítrico como mediador central dos efeitos renoprotetores do exercício na doença renal crônica",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3831",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3831"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Ferreira, Jonas Lopes": {
+            "profile": [
+              "http://lattes.cnpq.br/7435352407101097"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_2152308df0ef4ecde7c88ff91029ab75",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS HUMANAS::PSICOLOGIA"
+        ],
+        [
+          "Work clinic"
+        ],
+        [
+          "Nursing technicians"
+        ],
+        [
+          "Work-related suffering"
+        ],
+        [
+          "Clínica do trabalho"
+        ],
+        [
+          "Técnicas de enfermagem"
+        ],
+        [
+          "Sofrimento no trabalho"
+        ]
+      ],
+      "title": "Clínica do trabalho na perspectiva da escuta política com técnicas de enfermagem de hospitais privados",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3844",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3844"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Girão, Isabel Cristina Silva": {
+            "profile": [
+              "http://lattes.cnpq.br/185464936912333"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_4fffb1e3db2addd4f5c36c753a346b8a",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS SOCIAIS APLICADAS::ECONOMIA"
+        ],
+        [
+          "Water supply operation"
+        ],
+        [
+          "Impact assessment"
+        ],
+        [
+          "Semi-arid region"
+        ],
+        [
+          "Drought"
+        ],
+        [
+          "Triple-differences (DDD) model"
+        ],
+        [
+          "Seca"
+        ],
+        [
+          "Semiárido"
+        ],
+        [
+          "Avaliação de impacto"
+        ],
+        [
+          "Operação Carro-Pipa - OCP"
+        ],
+        [
+          "Modelo de Diferenças-em-Diferenças-em-Diferenças - DDD"
+        ]
+      ],
+      "title": "Análise da operação carro-pipa sobre indicadores de saúde infantil nos municípios do semiárido",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3853",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3853"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Rosa, Bruno Viana": {
+            "profile": [
+              "http://lattes.cnpq.br/1893401919899966"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_e25298b0390bf2191729adfd05f3a4d2",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Handgrip strength"
+        ],
+        [
+          "Muscle strength"
+        ],
+        [
+          "Mortality"
+        ],
+        [
+          "Health"
+        ],
+        [
+          "Saúde"
+        ],
+        [
+          "Mortalidade"
+        ],
+        [
+          "Força muscular"
+        ],
+        [
+          "Força de preensão manual"
+        ]
+      ],
+      "title": "Em direção ao conceito de “sinal vital funcional”: força de preensão manual e estratificação de risco em idosos com doença renal crônica na fila para o transplante",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3856",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3856"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Mack, Carlos Eduardo de Barros": {
+            "profile": [
+              "http://lattes.cnpq.br/6589985352692674"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_a886ac4b69adccacf2e93a03b0cd274c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Appendicular muscle mass"
+        ],
+        [
+          "Handgrip strength"
+        ],
+        [
+          "Sit-to-stand test"
+        ],
+        [
+          "Aging"
+        ],
+        [
+          "Sarcopenia"
+        ],
+        [
+          "Envelhecimento"
+        ],
+        [
+          "Massa muscular apendicular"
+        ],
+        [
+          "Teste de sentar-se e levantar"
+        ],
+        [
+          "Força de preensão manual"
+        ]
+      ],
+      "title": "Predição da massa magra apendicular e sua associação com a força de preensão manual e testes funcionais em pacientes transplantados renais",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3857",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3857"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Lima, Anderson Franco da Cruz": {
+            "profile": [
+              "http://lattes.cnpq.br/0433998257327596"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_db4853ece7a8633dddc99df0d17f194c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS BIOLOGICAS"
+        ],
+        [
+          "Antarctic bryophytes"
+        ],
+        [
+          "Warnstorfia sarmentosa"
+        ],
+        [
+          "Metabolomics"
+        ],
+        [
+          "Bioactive activity"
+        ],
+        [
+          "Plant biotechnology"
+        ],
+        [
+          "Briófitas antárticas"
+        ],
+        [
+          "Warnstorfia sarmentosa"
+        ],
+        [
+          "Metabolômica"
+        ],
+        [
+          "Atividade bioativa"
+        ],
+        [
+          "Biotecnologia vegetal"
+        ]
+      ],
+      "title": "Avaliação genômica e de metabólitos produzidos pelo musgo Warnstorfia sarmentosa (wahlenb) Hedenäs",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3858",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3858"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Garcez, Emãnuella Melgaço": {
+            "profile": [
+              "http://lattes.cnpq.br/3424439608498266"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_1a211e27c030ed4ac91ff6120eb8bc67",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS BIOLOGICAS"
+        ],
+        [
+          "Trypanosoma cruzi"
+        ],
+        [
+          "Mesenchymal stromal cells"
+        ],
+        [
+          "Adipose tissue"
+        ],
+        [
+          "Immunomodulation"
+        ],
+        [
+          "RNA-seq"
+        ],
+        [
+          "Parasite reservoirs"
+        ],
+        [
+          "Células estromais mesenquimais"
+        ],
+        [
+          "Tecido adiposo"
+        ],
+        [
+          "Imunomodulação"
+        ],
+        [
+          "Reservatórios parasitários"
+        ]
+      ],
+      "title": "Avaliação das alterações funcionais de células estromais mesenquimais associadas ao parasitismo por Trypanosoma cruzi",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3859",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3859"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Santos, Guilherme Henrique Soares dos": {
+            "profile": [
+              "http://lattes.cnpq.br/4977004959904625"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_64bd4b0d6027d68aff14f23c5ea2c621",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS BIOLOGICAS"
+        ],
+        [
+          "Antimicrobial peptides"
+        ],
+        [
+          "Antibiotics"
+        ],
+        [
+          "Synergism"
+        ],
+        [
+          "Biofilms"
+        ],
+        [
+          "Time-kill kinetics"
+        ],
+        [
+          "Peptídeos antimicrobianos"
+        ],
+        [
+          "Antibióticos"
+        ],
+        [
+          "Sinergismo"
+        ],
+        [
+          "Biofilmes"
+        ],
+        [
+          "Acinetobacter baumannii"
+        ],
+        [
+          "Tempo de morte bacteriana"
+        ]
+      ],
+      "title": "Caracterização funcional e estrutural de peptídeos com atividade antimicrobiana, sinérgica e antibiofilme contra Acinetobacter baumannii",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3860",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3860"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Serejo, Teresa Raquel Tavares": {
+            "profile": [
+              "http://lattes.cnpq.br/4675464795228906"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_6e6bdb2f4ebd697931e7dfb252bd8808",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS BIOLOGICAS"
+        ],
+        [
+          "Bacterial extracellular vesicles"
+        ],
+        [
+          "Antimicrobial peptides"
+        ],
+        [
+          "Bacterial resistance"
+        ],
+        [
+          "Escherichia coli"
+        ],
+        [
+          "Staphylococcus aureus"
+        ],
+        [
+          "Vesículas extracelulares bacterianas"
+        ],
+        [
+          "Peptídeos antimicrobianos"
+        ],
+        [
+          "Resistência bacteriana"
+        ],
+        [
+          "Escherichia coli"
+        ],
+        [
+          "Staphylococcus aureus"
+        ]
+      ],
+      "title": "Vesículas extracelulares de Escherichia coli e resistência bacteriana: modulação da eficácia dos peptídeos BotrAMP14 e crotAMP14 contra Staphylococcus aureus",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3879",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3879"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Lima Junior, Adelson Alves de": {
+            "profile": [
+              "http://lattes.cnpq.br/2557623725666282"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_125ded60028d0d429256479b6c0d9515",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "School physical education"
+        ],
+        [
+          "Interculturality"
+        ],
+        [
+          "Inclusion"
+        ],
+        [
+          "Indigenous children"
+        ],
+        [
+          "Cultural diversity"
+        ],
+        [
+          "Educação física escolar"
+        ],
+        [
+          "Interculturalidade"
+        ],
+        [
+          "Inclusão"
+        ],
+        [
+          "Crianças indígenas"
+        ],
+        [
+          "Diversidade cultural"
+        ]
+      ],
+      "title": "Desafios pedagógicos e práticas de inclusão indígena na educação física escolar em Rorainópolis - RR",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3878",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3878"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Andrade, Mírian Daniela Matos Campos": {
+            "profile": [
+              "http://lattes.cnpq.br/7412283854705523"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_5a64aea7afabad1676986f58d035c2eb",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS HUMANAS::PSICOLOGIA"
+        ],
+        [
+          "Bioecological model of human development"
+        ],
+        [
+          "Human development"
+        ],
+        [
+          "Inclusive education"
+        ],
+        [
+          "Specific educational needs"
+        ],
+        [
+          "Teacher-student interaction"
+        ],
+        [
+          "Desenvolvimento humano"
+        ],
+        [
+          "Educação inclusiva"
+        ],
+        [
+          "Interação professor-estudante"
+        ],
+        [
+          "Modelo bioecológico do desenvolvimento humano"
+        ],
+        [
+          "Necessidades educacionais específicas"
+        ]
+      ],
+      "title": "Interações professor-estudante com necessidades educacionais específicas: percepções e vivências de professores e estudantes no contexto escolar inclusivo",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3876",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3876"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Fernandes, Vinícius Gabriel Chaves": {
+            "profile": [
+              "http://lattes.cnpq.br/4683479331164470"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_d22b0f897a572e086b14f7aac5267b7c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS SOCIAIS APLICADAS::DIREITO"
+        ],
+        [
+          "Sociedade Anônima do Futebol - SAF"
+        ],
+        [
+          "Football Corporation"
+        ],
+        [
+          "Brazilian football"
+        ],
+        [
+          "Tax planning"
+        ],
+        [
+          "Corporation"
+        ],
+        [
+          "Investment"
+        ],
+        [
+          "Taxation"
+        ],
+        [
+          "Tributação"
+        ],
+        [
+          "Investimento"
+        ],
+        [
+          "Futebol brasileiro"
+        ],
+        [
+          "Sociedade anônima"
+        ],
+        [
+          "Planejamento tributário"
+        ]
+      ],
+      "title": "Sociedade anônima do futebol: aspectos tributários e empresariais",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3871",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3871"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Sanches, Alexandre Magno de Almeida Leão": {
+            "profile": [
+              "http://lattes.cnpq.br/0339237522911319"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_830e2f6b7c62f35c51cfa696773c2073",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS SOCIAIS APLICADAS::ECONOMIA"
+        ],
+        [
+          "Inflation"
+        ],
+        [
+          "Core inflation measures"
+        ],
+        [
+          "Sectoral heterogeneity"
+        ],
+        [
+          "Phillips Curve"
+        ],
+        [
+          "Price-setting"
+        ],
+        [
+          "Inflação"
+        ],
+        [
+          "Núcleos de inflação"
+        ],
+        [
+          "Heterogeneidade setorial"
+        ],
+        [
+          "Curva de Phillips"
+        ],
+        [
+          "Formação de preços"
+        ]
+      ],
+      "title": "A framework to decompose brazilian inflation",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3870",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3870"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Reis, Rodrigo Banho de Andrade": {
+            "profile": [
+              "http://lattes.cnpq.br/0243045940847738"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_6b3d52abf65679a1ad1ac932da90b53c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS SOCIAIS APLICADAS::ECONOMIA"
+        ],
+        [
+          "Public policies"
+        ],
+        [
+          "Health economics"
+        ],
+        [
+          "Smoking"
+        ],
+        [
+          "Sugar-sweetened beverages"
+        ],
+        [
+          "Taxation"
+        ],
+        [
+          "Difference-in-differences"
+        ],
+        [
+          "Interrupted time series"
+        ],
+        [
+          "Políticas públicas"
+        ],
+        [
+          "Economia da saúde"
+        ],
+        [
+          "Tabagismo"
+        ],
+        [
+          "Bebidas adoçadas"
+        ],
+        [
+          "Tributação"
+        ],
+        [
+          "Diferenças em diferenças"
+        ],
+        [
+          "Séries temporais interrompidas"
+        ]
+      ],
+      "title": "Ensaios da efetividade de políticas públicas para reduzir o consumo de bens nocivos para saúde",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3866",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3866"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Oliveira, Alisson Ribeiro": {
+            "profile": [
+              "http://lattes.cnpq.br/7225703467983072"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_b99f212bcf66dea249cd5474c3933e03",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Aerobic exercise"
+        ],
+        [
+          "Executive control"
+        ],
+        [
+          "University"
+        ],
+        [
+          "Exercício aeróbico"
+        ],
+        [
+          "Controle executivo"
+        ],
+        [
+          "Estudante universitário"
+        ]
+      ],
+      "title": "Efeitos agudos de diferentes tipos de desjejum associados ao exercício aeróbio no controle inibitório de jovens universitários: um ensaio clínico randomizado",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3865",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3865"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Maique, Gabriel Mônaco": {
+            "profile": [
+              "http://lattes.cnpq.br/6174221124294885"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_ef01d02b4df77fe120210a31cc4c486a",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Strength training"
+        ],
+        [
+          "Training volume"
+        ],
+        [
+          "Muscle balance"
+        ],
+        [
+          "H:Q ratio"
+        ],
+        [
+          "Treinamento de força"
+        ],
+        [
+          "Volume de treinamento"
+        ],
+        [
+          "Equilíbrio muscular"
+        ],
+        [
+          "Razão I/Q"
+        ]
+      ],
+      "title": "Equilíbrio de força e hipertrofia muscular entre quadríceps e posteriores de coxa: uma análise do volume de treinamento",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3863",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3863"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Martins, Lucas de Souza": {
+            "profile": [
+              "http://lattes.cnpq.br/1686794918075144"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_aed502c1026b40635dd6f11922892a17",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Cross-education"
+        ],
+        [
+          "Blood flow restriction"
+        ],
+        [
+          "Surface electromyography"
+        ],
+        [
+          "Unilateral training"
+        ],
+        [
+          "Educação cruzada"
+        ],
+        [
+          "Restrição de fluxo sanguíneo"
+        ],
+        [
+          "Idosos"
+        ],
+        [
+          "Preensão manual"
+        ],
+        [
+          "Força"
+        ],
+        [
+          "Eletromiografia"
+        ]
+      ],
+      "title": "Efeitos agudos do exercício isométrico unilateral de preensão palmar com restrição de fluxo sanguíneo sobre força e amplitude eletromiográfica contralateral em idosos",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3864",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3864"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Silva, Bárbara Querem Hapuque da": {
+            "profile": [
+              "buscatextual.cnpq.br"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UCB_46668120a2a32e595f0a34bfe030e2d8",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE"
+        ],
+        [
+          "Vascular dementia"
+        ],
+        [
+          "Oldest-old"
+        ],
+        [
+          "Risk factors"
+        ],
+        [
+          "Incidence"
+        ],
+        [
+          "Demência vascular"
+        ],
+        [
+          "Idoso de 80 anos ou mais"
+        ],
+        [
+          "Fatores de risco"
+        ],
+        [
+          "Incidência"
+        ]
+      ],
+      "title": "Fatores de risco associados à demência vascular em idosos longevos: uma revisão sistemática",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3846",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3846"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Silva, Sergio Avelino da": {
+            "profile": [
+              "http://lattes.cnpq.br/5478197291221480"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_bee1f655c1576a7675235fcde6ff7519",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE"
+        ],
+        [
+          "Older adults"
+        ],
+        [
+          "Employability"
+        ],
+        [
+          "Income generation"
+        ],
+        [
+          "Ageism"
+        ],
+        [
+          "Digital platforms"
+        ],
+        [
+          "Pessoas idosas"
+        ],
+        [
+          "Empregabilidade"
+        ],
+        [
+          "Geração de renda"
+        ],
+        [
+          "Idadismo"
+        ],
+        [
+          "Plataformas digitais"
+        ]
+      ],
+      "title": "Expectativas de empregabilidade e geração de renda de pessoas idosas cadastradas em uma plataforma digital de empregos",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3861",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3861"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Severiano, Andréa Paula": {
+            "profile": [
+              "http://lattes.cnpq.br/6102474463781650"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_b2c79bb9485fba6186034869e054fd3b",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE"
+        ],
+        [
+          "Gerontology"
+        ],
+        [
+          "Older adults"
+        ],
+        [
+          "Older persons’ rights"
+        ],
+        [
+          "Digital media"
+        ],
+        [
+          "Gerontechnology"
+        ],
+        [
+          "Health communication"
+        ],
+        [
+          "Gerontologia"
+        ],
+        [
+          "Pessoa idosa"
+        ],
+        [
+          "Direitos da pessoa idosa"
+        ],
+        [
+          "Mídias digitais"
+        ],
+        [
+          "Gerontecnologia"
+        ],
+        [
+          "Comunicação cidadã"
+        ]
+      ],
+      "title": "Canal no YouTube como tecnologia educacional e comunicação cidadã: uma estratégia de linguagem acessível para ampliar o acesso aos direitos da pessoa idosa",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3849",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3849"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Lima, Edileuza Nunes": {
+            "profile": [
+              "http://lattes.cnpq.br/1938420204460126"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UCB_8511d048412600740cbc76eab259dc5c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE"
+        ],
+        [
+          "Health determinants"
+        ],
+        [
+          "Riverside population"
+        ],
+        [
+          "Primary health care"
+        ],
+        [
+          "Elderly"
+        ],
+        [
+          "Health status disparities"
+        ],
+        [
+          "Determinantes de saúde"
+        ],
+        [
+          "População ribeirinha"
+        ],
+        [
+          "Atenção primária de saúde"
+        ],
+        [
+          "Pessoa idosa"
+        ],
+        [
+          "Disparidades nos níveis de saúde"
+        ]
+      ],
+      "title": "Condições e indicadores de saúde de pessoas idosas ribeirinhas: estudo em Melgaço, Pará",
+      "urls": [
+        {
+          "url": "https://bdtd.ucb.br:8443/jspui/handle/tede/3850",
+          "desc": "https://bdtd.ucb.br:8443/jspui/handle/tede/3850"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Santos, Isabel Cristina Lima dos": {
+            "profile": [
+              "http://lattes.cnpq.br/5417854878463037"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFAM_93ef223fcc8882f66bb33b18a12391c5",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE: ODONTOLOGIA"
+        ]
+      ],
+      "title": "Análise de custo-efetividade da frequência de irradiação a laser na prevenção da mucosite oral secundária à Terapia Antineoplásica em pacientes com câncer de cabeça e pescoço",
+      "urls": [
+        {
+          "url": "https://tede.ufam.edu.br/handle/tede/11765",
+          "desc": "https://tede.ufam.edu.br/handle/tede/11765"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Barros, Monique Emanuela Frutuoso Xavier": {
+            "profile": [
+              "http://lattes.cnpq.br/3984220084186351"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFAM_113826b6acc5c41fc984c54cb170a67c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE: FARMACIA"
+        ],
+        [
+          "Produtos naturais - Amazônia"
+        ],
+        [
+          "Biodiversidade - Amazônia"
+        ]
+      ],
+      "title": "Caracterização físico-química e avaliação do potencial antioxidante da própolis de abelhas-sem-ferrão (meliponini) da Amazônia",
+      "urls": [
+        {
+          "url": "https://tede.ufam.edu.br/handle/tede/11767",
+          "desc": "https://tede.ufam.edu.br/handle/tede/11767"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}

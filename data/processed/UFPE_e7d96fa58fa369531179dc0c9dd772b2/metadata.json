@@ -1,0 +1,16 @@
+{
+  "id": "UFPE_e7d96fa58fa369531179dc0c9dd772b2",
+  "titulo": "Custos Diretos Médicos, Reembolso e Qualidade de Vida em Pacientes com Colangiocarcinoma Submetidos à Drenagem Biliar Percutânea Trans-Hepática",
+  "titulo_normalizado": "custos diretos medicos, reembolso e qualidade de vida em pacientes com colangiocarcinoma submetidos a drenagem biliar percutanea trans-hepatica",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UFPE_e7d96fa58fa369531179dc0c9dd772b2.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UFPE_e7d96fa58fa369531179dc0c9dd772b2.pdf",
+  "url_origem": "https://repositorio.ufpe.br/bitstream/123456789/69496/1/TESE%20Francisca%20Assis%20de%20Melo.pdf",
+  "tamanho_bytes": 1762048,
+  "sha256": "03d7880b803c4e64b2631cb061856854ab26ef26ddfa96e1170522d5883d9838",
+  "baixado_em": "2026-09-12T18:26:18.025651+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-bf8ec7f6e12a4402"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "UNIFAL_4cc2035312502905f3e9a2b90b292081",
+  "titulo": "Digestão simulada in vitro e liberação de peptídeos bioativos de globulina total de grão-de-bico (Cicer arietinum L.) da cultivar GB Cappuccino",
+  "titulo_normalizado": "digestao simulada in vitro e liberacao de peptideos bioativos de globulina total de grao-de-bico (cicer arietinum l.) da cultivar gb cappuccino",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNIFAL_4cc2035312502905f3e9a2b90b292081.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNIFAL_4cc2035312502905f3e9a2b90b292081.pdf",
+  "url_origem": "https://repositorio.unifal-mg.edu.br/server/api/core/bitstreams/6e4e220a-7c0d-4c4e-b980-a617a903aafe/content",
+  "tamanho_bytes": 1388192,
+  "sha256": "9f01dc87a188185c8ff97ba1532a3f3dfe3f49fac779922d1bf0d635df1320cf",
+  "baixado_em": "2026-09-12T18:04:12.904484+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-f1edefe6388a8f8d"
+}

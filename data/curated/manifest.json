@@ -1,0 +1,16 @@
+{
+  "versao": "curated-v1",
+  "gerado_em": "2026-09-13T00:33:28.189666+00:00",
+  "documentos_catalogo": 489,
+  "documentos_solicitados": 489,
+  "documentos_com_texto": 486,
+  "chunks": 73380,
+  "classificacao": 486,
+  "qa_needs_annotation": 73380,
+  "falhas": 3,
+  "splits": {
+    "train": 385,
+    "validation": 50,
+    "test": 51
+  }
+}

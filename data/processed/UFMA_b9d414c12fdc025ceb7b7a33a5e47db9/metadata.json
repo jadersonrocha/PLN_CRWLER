@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_b9d414c12fdc025ceb7b7a33a5e47db9",
+  "titulo": "Perfil das Pacientes com Dor Pélvica Crônica e Endometriose em São Luis do Maranhão",
+  "titulo_normalizado": "perfil das pacientes com dor pelvica cronica e endometriose em sao luis do maranhao",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFMA_b9d414c12fdc025ceb7b7a33a5e47db9.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFMA_b9d414c12fdc025ceb7b7a33a5e47db9.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/6913/2/MARILU%20MARQUES%20DE%20MELO.pdf",
+  "tamanho_bytes": 2850508,
+  "sha256": "b13f2cb81db2d4e43b51d89edbcd11c271e53c0d60b58d8dd0e6acf6270c9c7f",
+  "baixado_em": "2026-09-12T18:14:35.292903+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-bf92b28619937cd2"
+}

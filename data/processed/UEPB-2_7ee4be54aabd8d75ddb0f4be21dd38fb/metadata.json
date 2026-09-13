@@ -1,0 +1,16 @@
+{
+  "id": "UEPB-2_7ee4be54aabd8d75ddb0f4be21dd38fb",
+  "titulo": "Sistemas de Inteligência Artificial para Documentação Clínica: Revisão de Escopo",
+  "titulo_normalizado": "sistemas de inteligencia artificial para documentacao clinica: revisao de escopo",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UEPB-2_7ee4be54aabd8d75ddb0f4be21dd38fb.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UEPB-2_7ee4be54aabd8d75ddb0f4be21dd38fb.pdf",
+  "url_origem": "https://repositorio.uepb.edu.br/server/api/core/bitstreams/d6d8f1e2-34be-479b-aad3-0f69239544cd/content",
+  "tamanho_bytes": 835908,
+  "sha256": "d558c7440ee092b10dac7b310d87130fb8a1915869f3c5ce4a2c4f5a84298f91",
+  "baixado_em": "2026-09-12T18:18:37.581930+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-b30f37dc545fbf5e"
+}

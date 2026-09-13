@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Stylo/estilo.css">
+
+    <title>BDTD | Biblioteca Digital Brasileira de Teses e Dissertações</title>
+</head>
+
+<body>
+    <header class="topbar">
+        <a class="marca" href="#inicio" aria-label="BDTD início">
+            <img class="brasao-ufpi" src="brasao_ufpi.png" alt="Brasão da Universidade Federal do Piauí">
+            <span><strong>UFPI</strong><small>Biblioteca Digital Brasileira<br>de Teses e Dissertações</small></span>
+        </a>
+        <nav class="navegacao" aria-label="Navegação principal">
+            <a href="#inicio" class="inicio" aria-label="Início">⌂</a>            
+            <a href="#contato">Contato</a>
+        </nav>
+        <span class="marca-direita" aria-hidden="true">✦</span>
+    </header>
+
+    <main id="inicio">
+        <section class="hero">
+            <div class="hero-conteudo">
+                <h1>Atividade Prática 03 - Criando um Crawler </h1>
+                <p>Acesso e visibilidade às teses e dissertações brasileiras</p>
+            </div>
+            <div class="metricas" aria-label="Indicadores da biblioteca">                
+                <a class="metrica metrica-link" href="dissertacoes.html" aria-label="Ver dissertações baixadas"><span class="icone" aria-hidden="true">▣</span><span><strong id="dissertacoes">0</strong><small>DISSERTAÇÕES</small></span></a>
+                <a class="metrica metrica-link" href="teses.html" aria-label="Ver teses baixadas"><span class="icone" aria-hidden="true">▤</span><span><strong id="teses">0</strong><small>TESES</small></span></a>
+                <article class="metrica"><span class="icone" aria-hidden="true">▧</span><span><strong id="documentos">0</strong><small>DOCUMENTOS</small></span></article>
+            </div>
+            <form class="busca" id="form-busca">
+                <label class="campo-busca"><span class="sr-only">Pesquisar por teses e dissertações</span><input id="termo-busca" type="search" placeholder="Pesquise por teses e dissertações"></label>
+                <label class="campo-selecao"><span class="sr-only">Campo de pesquisa</span><select id="tipo-busca"><option>Todos os campos</option><option>Título</option><option>Autor</option><option>Assunto</option></select></label>
+                <button type="submit">Buscar</button>
+                <button class="busca-avancada" type="button">⊕ &nbsp;Busca avançada</button>
+            </form>
+        </section>
+
+        <section class="informacoes" aria-label="Informações da BDTD">
+            <article class="info-card" id="institucional">
+                <div class="card-cabecalho">
+                    <h2>PARTICIPE</h2>
+                    <span aria-hidden="true">♧</span>
+                </div>
+                <p>Em construção.</p>
+            </article>
+
+            <article class="info-card" id="rede">
+                <div class="card-cabecalho">
+                    <h2>TECNOLOGIA</h2>
+                    <span aria-hidden="true">⊛</span>
+                </div>
+                <p>Em construção.</p>
+            </article>
+
+            <article class="info-card" id="faq">
+                <div class="card-cabecalho">
+                    <h2>INDICADORES</h2>
+                    <span aria-hidden="true">⌁</span>
+                </div>
+                <p>Em construção.</p>
+            </article>
+        </section>
+
+        <section class="resultados" id="contato" aria-live="polite">
+            <h2>Documentos relacionados à área da saúde</h2>
+            <ul id="lista-documentos"></ul>
+        </section>
+
+        <section class="resultados" id="contato" aria-live="polite">
+            <h2>Documentos relacionados à área da saúde</h2>
+            <ul id="lista-documentos"></ul>
+        </section>
+
+    </main>
+
+    <script src="js/pesquisa.js"></script>
+</body>
+</html>

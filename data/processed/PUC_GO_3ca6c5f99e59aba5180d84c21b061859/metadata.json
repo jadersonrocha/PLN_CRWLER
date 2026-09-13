@@ -1,0 +1,16 @@
+{
+  "id": "PUC_GO_3ca6c5f99e59aba5180d84c21b061859",
+  "titulo": "Autopercepção da saúde integral em pacientes com doença pulmonar obstrutiva crônica (DPOC) durante internação hospitalar",
+  "titulo_normalizado": "autopercepcao da saude integral em pacientes com doenca pulmonar obstrutiva cronica (dpoc) durante internacao hospitalar",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "PUC_GO_3ca6c5f99e59aba5180d84c21b061859.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\PUC_GO_3ca6c5f99e59aba5180d84c21b061859.pdf",
+  "url_origem": "https://tede2.pucgoias.edu.br/bitstream/tede/5400/2/Emanuel%20Soares%20Marques%20Venancio.pdf",
+  "tamanho_bytes": 697504,
+  "sha256": "38d8471fc955693224501e1b15cffa7b326bc51f9e08d7d669b6f11fd752cdd4",
+  "baixado_em": "2026-09-12T18:26:52.650638+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-dfbb76f3c16bbc1a"
+}

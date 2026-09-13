@@ -1,0 +1,16 @@
+{
+  "id": "UNB_3c14b232c3fdf96213e0be5ed988fd17",
+  "titulo": "Modulação quimiogenética do sistema de recompensa em ratos submetidos ao teste de preferência condicionada ao lugar",
+  "titulo_normalizado": "modulacao quimiogenetica do sistema de recompensa em ratos submetidos ao teste de preferencia condicionada ao lugar",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNB_3c14b232c3fdf96213e0be5ed988fd17.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNB_3c14b232c3fdf96213e0be5ed988fd17.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/55132/1/BeatrizMonferrariMartins_DISSERT.pdf",
+  "tamanho_bytes": 2899931,
+  "sha256": "f8d9fc74366546fbb5c38fa7409360f8b48a58606e3b7bf2ea0d8cc342bbc754",
+  "baixado_em": "2026-09-12T19:09:46.256366+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-386a04ac20beae86"
+}

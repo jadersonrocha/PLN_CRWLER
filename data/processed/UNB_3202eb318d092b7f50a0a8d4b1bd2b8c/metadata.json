@@ -1,0 +1,16 @@
+{
+  "id": "UNB_3202eb318d092b7f50a0a8d4b1bd2b8c",
+  "titulo": "A exposição à gentamicina promove remodelamento metabólico como estratégia de resistência adaptativa em Escherichia coli",
+  "titulo_normalizado": "a exposicao a gentamicina promove remodelamento metabolico como estrategia de resistencia adaptativa em escherichia coli",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNB_3202eb318d092b7f50a0a8d4b1bd2b8c.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNB_3202eb318d092b7f50a0a8d4b1bd2b8c.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/54954/1/EduardaEmerickGianni_DISSERT.pdf",
+  "tamanho_bytes": 14029488,
+  "sha256": "832a42cf63de351e6898da11ab51252d0cee8a51f815b3f3a585846810022734",
+  "baixado_em": "2026-09-12T19:11:14.279681+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-8564912cc0443bec"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "UFV_193a24ad89b1547a854234ce00868c94",
+  "titulo": "Biotechnological prospects of rhamnolipids: production, surface tension activity, environmental applications and antimicrobial therapeutic potential",
+  "titulo_normalizado": "biotechnological prospects of rhamnolipids: production, surface tension activity, environmental applications and antimicrobial therapeutic potential",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFV_193a24ad89b1547a854234ce00868c94.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFV_193a24ad89b1547a854234ce00868c94.pdf",
+  "url_origem": "https://locus.ufv.br/server/api/core/bitstreams/41ef3157-2a3e-49ed-9234-a58403991bc0/content",
+  "tamanho_bytes": 2935909,
+  "sha256": "c22beb5047c8150c9b747313da74ba5376143cf6427bd797c1e5e8dc315d7281",
+  "baixado_em": "2026-09-12T18:13:39.824041+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-6d6e2aeb07f1595c"
+}

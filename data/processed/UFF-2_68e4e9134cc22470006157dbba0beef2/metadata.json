@@ -1,0 +1,16 @@
+{
+  "id": "UFF-2_68e4e9134cc22470006157dbba0beef2",
+  "titulo": "Modelos computacionais para dinâmica de populações reais",
+  "titulo_normalizado": "modelos computacionais para dinamica de populacoes reais",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UFF-2_68e4e9134cc22470006157dbba0beef2.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UFF-2_68e4e9134cc22470006157dbba0beef2.pdf",
+  "url_origem": "https://app.uff.br/riuff/bitstream/handle/1/42739/Tese_Racco.pdf?sequence=1&isAllowed=y",
+  "tamanho_bytes": 1274019,
+  "sha256": "75965c720f0aadc4dcfaf04b9e733f714f93dee58b370c470282f65e4a81cefe",
+  "baixado_em": "2026-09-12T18:23:59.080616+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-6cde9a511870cb55"
+}

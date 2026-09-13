@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_ff6d9c8ec5985e1fbcc8c9a6db89eef4",
+  "titulo": "Análise espaço-temporal da distribuição de fisioterapeutas e de atendimentos fisioterapêuticos ambulatoriais no sistema único de saúde, Brasil",
+  "titulo_normalizado": "analise espaco-temporal da distribuicao de fisioterapeutas e de atendimentos fisioterapeuticos ambulatoriais no sistema unico de saude, brasil",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UFMA_ff6d9c8ec5985e1fbcc8c9a6db89eef4.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UFMA_ff6d9c8ec5985e1fbcc8c9a6db89eef4.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/7125/2/Maria_Jhany_Marques.pdf",
+  "tamanho_bytes": 328904,
+  "sha256": "b484a16d8afb8255d3bd964bcc97f9517a9938b3211e8434887f3d26cbfdf3e0",
+  "baixado_em": "2026-09-12T18:15:17.430604+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-ea358ae513ad21e4"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_b1c4f581fdaf8457f527637e4bbf75d6",
+  "titulo": "ESTADO NUTRICIONAL DE CRIANÇAS INDIGENAS MENORES DE 5 ANOS, DO DISTRITO SANITÁRIO ESPECIAL INDÍGENA, MARANHÃO, BRASIL",
+  "titulo_normalizado": "estado nutricional de criancas indigenas menores de 5 anos, do distrito sanitario especial indigena, maranhao, brasil",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFMA_b1c4f581fdaf8457f527637e4bbf75d6.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFMA_b1c4f581fdaf8457f527637e4bbf75d6.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/6844/2/MA%C3%8DRA%20FERNANDA%20VEIGA%20DE%20SOUSA.pdf",
+  "tamanho_bytes": 2560737,
+  "sha256": "050c256adb19254af79d5cc0cc29c0c4c82257b9275ff8a5d240bcd1899058ec",
+  "baixado_em": "2026-09-12T18:14:19.566777+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-f020dbc75b670e65"
+}

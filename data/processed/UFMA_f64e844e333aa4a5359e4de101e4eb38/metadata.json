@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_f64e844e333aa4a5359e4de101e4eb38",
+  "titulo": "Construção e validação de software para consulta de enfermagem à pessoa com diabetes mellitus na atenção primária à saúde",
+  "titulo_normalizado": "construcao e validacao de software para consulta de enfermagem a pessoa com diabetes mellitus na atencao primaria a saude",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFMA_f64e844e333aa4a5359e4de101e4eb38.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFMA_f64e844e333aa4a5359e4de101e4eb38.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/6772/2/J%C3%89SSICA_CARVALHO.pdf",
+  "tamanho_bytes": 695122,
+  "sha256": "90a2c476594a9d1b2c66d14c22a7b2cc0764836b95beb95d54aa3a469fd4bcce",
+  "baixado_em": "2026-09-12T18:14:04.737378+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-5d6510e1a8473776"
+}

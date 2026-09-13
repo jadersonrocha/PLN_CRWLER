@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_0b041a942b7193df6422cbf3e2aee613",
+  "titulo": "Sistema de Apoio ao Diagnóstico do Risco de Transtorno de Ansiedade em Crianças",
+  "titulo_normalizado": "sistema de apoio ao diagnostico do risco de transtorno de ansiedade em criancas",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFMA_0b041a942b7193df6422cbf3e2aee613.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFMA_0b041a942b7193df6422cbf3e2aee613.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/6899/2/Renata%20Costa%20Rocha.pdf",
+  "tamanho_bytes": 5230641,
+  "sha256": "be82d3d095c977111cabdb2b74ce9a382e4c8dc002cd7425b24d5d9fc0e8263e",
+  "baixado_em": "2026-09-12T18:14:29.914690+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-5252c5283e3689ea"
+}

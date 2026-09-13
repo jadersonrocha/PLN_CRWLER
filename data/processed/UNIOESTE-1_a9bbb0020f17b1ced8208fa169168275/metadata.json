@@ -1,0 +1,16 @@
+{
+  "id": "UNIOESTE-1_a9bbb0020f17b1ced8208fa169168275",
+  "titulo": "Óleos essencias e ácidos orgânicos na alimentação de leitões na fase de creche",
+  "titulo_normalizado": "oleos essencias e acidos organicos na alimentacao de leitoes na fase de creche",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNIOESTE-1_a9bbb0020f17b1ced8208fa169168275.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNIOESTE-1_a9bbb0020f17b1ced8208fa169168275.pdf",
+  "url_origem": "https://tede.unioeste.br/bitstream/tede/8192/2/Antonio_LopesFilho_2025.pdf",
+  "tamanho_bytes": 882527,
+  "sha256": "883ac08f81f13167ccf8840fa6b8e21e2a997734ce0d3635e3e00a67d6ee15fc",
+  "baixado_em": "2026-09-12T18:15:21.662298+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-9413e8d489ff8767"
+}

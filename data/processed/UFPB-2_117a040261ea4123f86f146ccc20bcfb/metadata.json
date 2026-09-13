@@ -1,0 +1,16 @@
+{
+  "id": "UFPB-2_117a040261ea4123f86f146ccc20bcfb",
+  "titulo": "Desempenho termodinâmico, ambiental e social de colheita de energia a partir de atividades físicas",
+  "titulo_normalizado": "desempenho termodinamico, ambiental e social de colheita de energia a partir de atividades fisicas",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UFPB-2_117a040261ea4123f86f146ccc20bcfb.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UFPB-2_117a040261ea4123f86f146ccc20bcfb.pdf",
+  "url_origem": "https://repositorio.ufpb.br/jspui/bitstream/123456789/38096/1/HerwinSaitoSchultz_Tese.pdf",
+  "tamanho_bytes": 5885100,
+  "sha256": "711927ed21eaf6cf401bb50630cff6e6a2bd01e4dc33a1d024b3aeed639a9f8a",
+  "baixado_em": "2026-09-12T18:10:35.626392+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-ec19fa4793c83b39"
+}

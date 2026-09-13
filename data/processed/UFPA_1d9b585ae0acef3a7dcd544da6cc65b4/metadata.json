@@ -1,0 +1,16 @@
+{
+  "id": "UFPA_1d9b585ae0acef3a7dcd544da6cc65b4",
+  "titulo": "Sistema inteligente de prevenção de fadiga em condutores de veículos na mineração",
+  "titulo_normalizado": "sistema inteligente de prevencao de fadiga em condutores de veiculos na mineracao",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFPA_1d9b585ae0acef3a7dcd544da6cc65b4.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFPA_1d9b585ae0acef3a7dcd544da6cc65b4.pdf",
+  "url_origem": "https://repositorio.ufpa.br/server/api/core/bitstreams/04c829d0-2d32-48d6-b0b7-18703a780c65/content",
+  "tamanho_bytes": 2564085,
+  "sha256": "9f433c4913740dd73174687af97facbf237fafbe1a7c8b3aba0f00415950f666",
+  "baixado_em": "2026-09-12T18:34:24.288287+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-c5ef512ded652ad8"
+}

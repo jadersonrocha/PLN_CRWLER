@@ -1,0 +1,16 @@
+{
+  "id": "UPM_a801bfe5c9474bf459a8b2fcd959609f",
+  "titulo": "Arquitetura e memória: estudo do antigo sanatório Meduna em Teresina (PI)",
+  "titulo_normalizado": "arquitetura e memoria: estudo do antigo sanatorio meduna em teresina (pi)",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UPM_a801bfe5c9474bf459a8b2fcd959609f.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UPM_a801bfe5c9474bf459a8b2fcd959609f.pdf",
+  "url_origem": "https://adelpha-api.mackenzie.br/server/api/core/bitstreams/48d14d5d-5a29-4386-b7db-c8902efabac8/content",
+  "tamanho_bytes": 6466117,
+  "sha256": "cd3db9747ac81e355f25aa466dd180cfda5610799374427dbd541afc5e6f81af",
+  "baixado_em": "2026-09-12T18:12:07.387855+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-eac7014bcfd1c74d"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_4cbabbe974b1397e0d952a340359b219",
+  "titulo": "IDENTIFICAÇÃO DE ÁREAS DE EMISSÃO DE MATERIAL PARTICULADO A PARTIR DE MODELOS FENOMENOLÓGICOS DE DISPERSÃO ATMOSFÉRICA E ALGORITMOS DE APRENDIZADO PROFUNDO",
+  "titulo_normalizado": "identificacao de areas de emissao de material particulado a partir de modelos fenomenologicos de dispersao atmosferica e algoritmos de aprendizado profundo",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFMA_4cbabbe974b1397e0d952a340359b219.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFMA_4cbabbe974b1397e0d952a340359b219.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/7028/2/LANNA%20ALMEIDA%20PEREIRA.pdf",
+  "tamanho_bytes": 2333354,
+  "sha256": "c83b5fa67ebeed7a38074fffffa068aaf8e52ef551a491e904006562b3fba2c4",
+  "baixado_em": "2026-09-12T18:15:03.638417+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-f7d149691dea424d"
+}

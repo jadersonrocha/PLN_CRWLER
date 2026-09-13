@@ -1,0 +1,16 @@
+{
+  "id": "UNB_075b35c49c2a324c9fdbd9653e09dbc0",
+  "titulo": "Promoção da saúde mental de mães universitárias na Universidade de Brasília",
+  "titulo_normalizado": "promocao da saude mental de maes universitarias na universidade de brasilia",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNB_075b35c49c2a324c9fdbd9653e09dbc0.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNB_075b35c49c2a324c9fdbd9653e09dbc0.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/54359/1/2026_BeatrizCruzDaCosta_DISSERT.pdf",
+  "tamanho_bytes": 10475068,
+  "sha256": "44cf4f0e8bd83993ee06ef6e3509971c3b6d413cbc2dd10e2c048a1ede1667ad",
+  "baixado_em": "2026-09-12T19:09:44.336855+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-8c94ec0a60f91b8a"
+}

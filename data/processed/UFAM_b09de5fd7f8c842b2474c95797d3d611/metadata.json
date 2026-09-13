@@ -1,0 +1,16 @@
+{
+  "id": "UFAM_b09de5fd7f8c842b2474c95797d3d611",
+  "titulo": "Estudo da variabilidade sazonal da concentração dos materiais particulados totais em suspensão no município de Humaitá, Amazonas, Brasil",
+  "titulo_normalizado": "estudo da variabilidade sazonal da concentracao dos materiais particulados totais em suspensao no municipio de humaita, amazonas, brasil",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFAM_b09de5fd7f8c842b2474c95797d3d611.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFAM_b09de5fd7f8c842b2474c95797d3d611.pdf",
+  "url_origem": "https://tede.ufam.edu.br/manualbdtdautodep.pdf",
+  "tamanho_bytes": 1769593,
+  "sha256": "d05fb96ca258da044803941f50e2c456edca1322f7eb62ad5fbb8c22cd23dd17",
+  "baixado_em": "2026-09-12T18:15:45.111764+00:00",
+  "status": "duplicado",
+  "duplicado_de": "UFAM_4fa308a4578f8a64dea34b1a42eeef3e"
+}

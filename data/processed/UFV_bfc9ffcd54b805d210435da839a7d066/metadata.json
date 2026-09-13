@@ -1,0 +1,16 @@
+{
+  "id": "UFV_bfc9ffcd54b805d210435da839a7d066",
+  "titulo": "Investigation of the use of shredded tire rubber in gypsum boards for sound absorption purposes",
+  "titulo_normalizado": "investigation of the use of shredded tire rubber in gypsum boards for sound absorption purposes",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UFV_bfc9ffcd54b805d210435da839a7d066.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UFV_bfc9ffcd54b805d210435da839a7d066.pdf",
+  "url_origem": "https://locus.ufv.br/server/api/core/bitstreams/175d3657-afd9-466f-a711-da00267e8675/content",
+  "tamanho_bytes": 5847961,
+  "sha256": "4e920aec6b78e00d1b782083685e2e22e1b58aeaac1a9d1d3d808e63e7704f53",
+  "baixado_em": "2026-09-12T18:13:50.955354+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-eb22675b2a8c1e28"
+}

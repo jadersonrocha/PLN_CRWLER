@@ -1,0 +1,16 @@
+{
+  "id": "UEPB-2_b40157302aebcb5d296892448cd5df49",
+  "titulo": "Desenvolvimento de um modelo de aprendizado de máquina para predição de pré-eclâmpsia sem uso de biomarcadores laboratoriais: uma abordagem baseada em dados clínicos e laudos ultrassonográficos de rotina.",
+  "titulo_normalizado": "desenvolvimento de um modelo de aprendizado de maquina para predicao de pre-eclampsia sem uso de biomarcadores laboratoriais: uma abordagem baseada em dados clinicos e laudos ultrassonograficos de rotina.",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UEPB-2_b40157302aebcb5d296892448cd5df49.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UEPB-2_b40157302aebcb5d296892448cd5df49.pdf",
+  "url_origem": "https://repositorio.uepb.edu.br/server/api/core/bitstreams/1560555d-014f-4ec8-8903-633ab083ba87/content",
+  "tamanho_bytes": 3065745,
+  "sha256": "fc5d0a7785168dd9de288806b8454d7fce2d89812d7ff5d381facb842f1d6480",
+  "baixado_em": "2026-09-12T18:18:26.000043+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-5e7330a627bb95b7"
+}

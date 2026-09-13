@@ -1,0 +1,891 @@
+{
+  "resultCount": 189817,
+  "records": [
+    {
+      "authors": {
+        "primary": {
+          "CRUZ, Hedmun Matias da": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFPE_a76b32d0788a22c766a8f9b21b99c199",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Filtração em Margem"
+        ],
+        [
+          "Rio Beberibe"
+        ],
+        [
+          "Poluentes Emergentes"
+        ],
+        [
+          "Urbanização"
+        ],
+        [
+          "Compostos Nitrogenados"
+        ],
+        [
+          "Fármacos"
+        ]
+      ],
+      "title": "Análise Temporal de um Sistema de Filtração em Margem Locado nas Margens do Rio Beberibe-Pe: aspectos Físico-Químicos, Biológicos e Farmacológicos",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpe.br/handle/123456789/69815",
+          "desc": "https://repositorio.ufpe.br/handle/123456789/69815"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "FERNANDES, Sándna Fabíolly Silva": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPE_d5d28d91b7243dc80b476b5b43d27c0e",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Afasia"
+        ],
+        [
+          "Estimulação Transcraniana por Corrente Contínua"
+        ],
+        [
+          "Terapia da linguagem"
+        ],
+        [
+          "Linguagem"
+        ]
+      ],
+      "title": "Efeitos da Estimulação Transcraniana Cerebelar associada a Terapia de Linguagem em Pacientes Com Afasia",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpe.br/handle/123456789/69390",
+          "desc": "https://repositorio.ufpe.br/handle/123456789/69390"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "BARROS, Mirelly da Silva": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPE_c00a0c7a613c85f8eadbd2c2b756fa36",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Criança Hospitalizada"
+        ],
+        [
+          "Contação de Histórias"
+        ],
+        [
+          "Literatura Infantil Digital"
+        ],
+        [
+          "Tecnologia em Saúde"
+        ],
+        [
+          "Beleza"
+        ],
+        [
+          "Tecnologia Educacional"
+        ]
+      ],
+      "title": "Repercussões da mediação de histórias nos aspectos emocionais de crianças hospitalizadas: estudo multimétodo",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpe.br/handle/123456789/69680",
+          "desc": "https://repositorio.ufpe.br/handle/123456789/69680"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "MEDEIROS, Yurgymann Hansley da Silva de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPE_e76e16d45b19f8ee1842508ad1bfb625",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Termografia por infravermelho"
+        ],
+        [
+          "Obesidade"
+        ],
+        [
+          "Aprendizado de máquina"
+        ],
+        [
+          "Adiposidade mamária"
+        ],
+        [
+          "Avaliação de gordura mamária"
+        ]
+      ],
+      "title": "Identificação de regiões de gordura em mamas através de imagens termográficas",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpe.br/handle/123456789/69478",
+          "desc": "https://repositorio.ufpe.br/handle/123456789/69478"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "ARAUJO, Marcelo Magno Ramos de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPE_45a47067557a5a3e3b9bff5d2952fbb6",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Respiração Bucal"
+        ],
+        [
+          "Músculo Masseter"
+        ],
+        [
+          "Ultrassonografia"
+        ]
+      ],
+      "title": "Avaliação Multimodal em Ultrassonografia, Elastografia e Miotonometria para análise Morfológica e Biomecânica do Músculo Masseter após intervenção em crianças respiradoras orais: uma Série de Casos Longitudinal",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpe.br/handle/123456789/69087",
+          "desc": "https://repositorio.ufpe.br/handle/123456789/69087"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "MELO, Marilya Roberta Ferreira de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPE_f87f9475f4da1f9e5e5b4eb46223527d",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Tuberculose"
+        ],
+        [
+          "Efeitos Colaterais e Reações Adversas Associados a Medicamentos"
+        ],
+        [
+          "Manifestações Bucais"
+        ]
+      ],
+      "title": "Alterações bucais de pacientes sob terapia Antituberculínica: uma revisão de escopo e estudo de série de casos",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpe.br/handle/123456789/69012",
+          "desc": "https://repositorio.ufpe.br/handle/123456789/69012"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Maia, Alicia Cavalcante": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_31d36d7fa353e98ae69b05f39c4a83b0",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Determinação dos sorotipos e análise filogenética dos vírus da dengue circulantes no Distrito Federal nas epidemias de 2022 e 2024",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54836",
+          "desc": "http://repositorio.unb.br/handle/10482/54836"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Guedes, André Elias Cavalcanti Bezerra": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_fb716a732247faff365c616a39ad7579",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Controle de Aaedes Aegypti e culex quinquefasciatus na Universidade de Brasília por meio do uso de estações disseminadoras de larvicidas",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54837",
+          "desc": "http://repositorio.unb.br/handle/10482/54837"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Baptista, Joao Vitor Rodrigues": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_b56e996a3bb13942eca7517a7c365452",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Graphrag para prontuários eletrônicos : uma abordagem aumentada por grafos para acesso à informação em saúde",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54560",
+          "desc": "http://repositorio.unb.br/handle/10482/54560"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Matias, Patrícia Magno dos Santos": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UNB_bc6dfaf1b273c51b8d37f6f1e396d63e",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Clareamento de dentes não-vitais : um tratamento de mínima intervenção com baixo risco de efeitos adverso",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55053",
+          "desc": "http://repositorio.unb.br/handle/10482/55053"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Barbosa, Yuri Silvestre": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_b34644cb3afc854bf35e4a3fe7ef59f7",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Métodos computacionais no câncer de cabeça e pescoço",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55128",
+          "desc": "http://repositorio.unb.br/handle/10482/55128"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Pinheiro, Sâmia Jucá": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UNB_b3de506c1886b1c658d096b2330fccda",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Construção e evidências de validade de uma caderneta de saúde da pessoa com transplante renal",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55113",
+          "desc": "http://repositorio.unb.br/handle/10482/55113"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Melo, Daiane Alves de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_85272cf5007ddb4ce238b29a92f2e348",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Perfil dos egressos e diagnósticos estratégicos : uma análise com base nos dados do Programa de Pós-Graduação em Engenharia Biomédica da UnB Gama (PPGEB/UnB Gama)",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54667",
+          "desc": "http://repositorio.unb.br/handle/10482/54667"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Cangussu, Matheus Ramalho": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_094577b53fa6c93465d31b4992dda3b6",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Relação entre prestação de contas e situação fiscal dos estados brasileiros",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54927",
+          "desc": "http://repositorio.unb.br/handle/10482/54927"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Fonseca, Yasmin Nunes Godoy da": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_408a0f7a1893ea530d085b4c3b88853b",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Investigação das alterações renais em primatas não humanos com ênfase nas enfermidades zoonóticas",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54818",
+          "desc": "http://repositorio.unb.br/handle/10482/54818"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Nogueira, Priscila do Vale": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_7cb37455181610a83f19be743e14488b",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Avaliação da escuta de adolescentes puérperas internadas em hospital público do distrito federal",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54816",
+          "desc": "http://repositorio.unb.br/handle/10482/54816"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Araujo, Éryca Mendes de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_aca07f82b4561e53904e1be668b2988a",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Avaliação de anticorpos policlonais com potencial uso em diagnóstico de infecções do trato urinário",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55589",
+          "desc": "http://repositorio.unb.br/handle/10482/55589"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Oliveira, Ana Cristina Silva de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_0497e116147abb5aa5cd5d2c7d5a4054",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Absenteísmo na administração pública : uma análise dos custos institucionais, principais causas e o papel de estratégias inovadoras na promoção da saúde e da eficiência organizacional",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55546",
+          "desc": "http://repositorio.unb.br/handle/10482/55546"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Schwantes, Marina de Cesaro": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_5da7f16362bfc57ff53e01088a7a2711",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Adaptação transcultural da escala de atitudes e comportamentos alimentares em crianças e adolescentes com doença celíaca (Child CD-FAB) para o contexto brasileiro",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54675",
+          "desc": "http://repositorio.unb.br/handle/10482/54675"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Zerbini, Elen Márcia Carioca": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UNB_85c3970984264b880ab703d761b33e48",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Prematuridade e constituição psíquica : o sujeito na unidade de terapia intensiva neonatal",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54378",
+          "desc": "http://repositorio.unb.br/handle/10482/54378"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Taveira, Clara Outeiral": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_caa6065373da460367a7fd3a38c1eaf4",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Vivências de mulheres em contextos rurais : relações entre gênero, território e saúde",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54373",
+          "desc": "http://repositorio.unb.br/handle/10482/54373"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Goveia, Guilherme Pereira": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_2cf5bd463936b3bc1e1f95012177bd14",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "A importância do uso de infográficos para o ensino da geopolítica mundial para o terceiro ano do ensino médio",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55442",
+          "desc": "http://repositorio.unb.br/handle/10482/55442"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Araujo, Victor Henrique de Souza": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_f249ce542a56712f51830e4b7f073328",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Seleção de soluções de abastecimento de água em comunidades rurais brasileiras : estudos de caso no Distrito Federal",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54646",
+          "desc": "http://repositorio.unb.br/handle/10482/54646"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Dias, Samara Maria Douets Vasconcelos Cunha": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UNB_db52bcf4670bfa062868fdc729ce2cf2",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Acidentes em serviço ou do trabalho com traumas bucomaxilofaciais : abordagem necessária na Administração Pública",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55055",
+          "desc": "http://repositorio.unb.br/handle/10482/55055"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Rodrigues, Roberta Camila da Silva": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_b27a6dccb4038f7f1ff65e1a05a05fe9",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Avaliação clínica e radiográfica de pacientes sob risco de osteonecrose submetidos à ozonioterapia pré-exodontia : estudo observacional",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55056",
+          "desc": "http://repositorio.unb.br/handle/10482/55056"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Vale, Janaina Santos do": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_87199803d494d9095476c45e23641847",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Óleos vegetais florestais amazônicos enriquecendo biocosméticos sustentáveis",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54898",
+          "desc": "http://repositorio.unb.br/handle/10482/54898"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Sousa, Cinthia Nunes Mendes de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_ef7e59e73252a5d52921620cde71ae6e",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Equidade de gênero nas secretarias de estado brasileiras : uma abordagem regional e partidária das autoridades máximas",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54626",
+          "desc": "http://repositorio.unb.br/handle/10482/54626"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Rufino, Liliane Garcia": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_ac32dbf727efc717bb5b8c9a208a2d90",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Fatores associados a eventos não graves supostamente atribuíveis às vacinas da covid-19 em profissionais de saúde no Brasil : uma análise da coorte Sevacov-Pro",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54838",
+          "desc": "http://repositorio.unb.br/handle/10482/54838"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Gianni, Eduarda Emerick": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_3202eb318d092b7f50a0a8d4b1bd2b8c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "A exposição à gentamicina promove remodelamento metabólico como estratégia de resistência adaptativa em Escherichia coli",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54954",
+          "desc": "http://repositorio.unb.br/handle/10482/54954"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Melo, Maria Ester França de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_5ba0bd83aaf1540aaf2994f0c7f2a4c2",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Avaliação integrada das propriedades antimicrobianas, químicas e biológicas do Bio-C Temp e Ultracal XS em células humanas do ligamento periodontal e sangue periférico in vitro",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55133",
+          "desc": "http://repositorio.unb.br/handle/10482/55133"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}

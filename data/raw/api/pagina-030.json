@@ -1,0 +1,1940 @@
+{
+  "resultCount": 189817,
+  "records": [
+    {
+      "authors": {
+        "primary": {
+          "Silva, Mariana Oliveira": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_2a26453a0841df81ed29324b8d1cc721",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS BIOLOGICAS::GENETICA"
+        ],
+        [
+          "Human genetics"
+        ],
+        [
+          "Molecular diagnosis"
+        ],
+        [
+          "Genotype–phenotype correlation"
+        ],
+        [
+          "Genética humana"
+        ],
+        [
+          "Diagnóstico molecular"
+        ],
+        [
+          "Correlação genótipo-fenótipo"
+        ],
+        [
+          "Alterações neurológicas"
+        ],
+        [
+          "Neurological alterations"
+        ]
+      ],
+      "title": "Caracterização genético-clínica de variantes associadas ao transtorno do espectro autismo em uma coorte retrospectiva",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5363",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5363"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Amorim, Juliana Divina de": {
+            "profile": [
+              "http://lattes.cnpq.br/6336959346020859"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_824e8900c841a57f3de3df4f4c1a09d8",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "LINGUISTICA, LETRAS E ARTES::LETRAS"
+        ],
+        [
+          "Drought"
+        ],
+        [
+          "Migration"
+        ],
+        [
+          "Women"
+        ],
+        [
+          "Brazilian Literature"
+        ],
+        [
+          "Northeast"
+        ],
+        [
+          "Seca"
+        ],
+        [
+          "Migração"
+        ],
+        [
+          "Mulheres"
+        ],
+        [
+          "Literatura Brasileira"
+        ],
+        [
+          "Nordeste"
+        ]
+      ],
+      "title": "Vidas áridas: quatro mulheres e as diásporas do povo nordestino",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5396",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5396"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Pinto, Amadeus Alves": {
+            "profile": [
+              "http://lattes.cnpq.br/7850418235305047"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_f77c5d58a8b48468e872f7f3ecfe8571",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS SOCIAIS APLICADAS::SERVICO SOCIAL"
+        ],
+        [
+          "Assistência Estudantil"
+        ],
+        [
+          "Permanência"
+        ],
+        [
+          "Evasão"
+        ],
+        [
+          "Maternidade"
+        ],
+        [
+          "Bolsa Canguru"
+        ],
+        [
+          "Student Assistance"
+        ],
+        [
+          "Persistence"
+        ],
+        [
+          "Dropout"
+        ],
+        [
+          "Motherhood"
+        ]
+      ],
+      "title": "Assistência estudantil nas contradições do capital: permanência e risco de evasão de mães/pais atendidas/os pela Bolsa Canguru da UFG de 2018 a 2024",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5397",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5397"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Pinto, João Amadeu Lima": {
+            "profile": [
+              "http://lattes.cnpq.br/9390043775932490"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_347c4eaac527227af7b63443594dad10",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE:: CIENCIAS AMBIENTAIS"
+        ],
+        [
+          "Hanseníase"
+        ],
+        [
+          "COVID-19"
+        ],
+        [
+          "Vigilância em Saúde Pública"
+        ],
+        [
+          "Subnotificação"
+        ],
+        [
+          "Epidemiologia"
+        ],
+        [
+          "Leprosy"
+        ],
+        [
+          "Public Health Surveillance"
+        ],
+        [
+          "Underreporting"
+        ],
+        [
+          "Epidemiolog"
+        ]
+      ],
+      "title": "Oscilações na notificação de casos de hanseníase no contexto da pandemia da covid-19 no Brasil",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5398",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5398"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Alexandrino, Pedro Henrique de Almeida Lima": {
+            "profile": [
+              "http://lattes.cnpq.br/2133056599697245"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_1ded00ba82d62386d52db0ec05629765",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "ENGENHARIAS::ENGENHARIA DE PRODUCAO"
+        ],
+        [
+          "Beef"
+        ],
+        [
+          "Beef Cattle"
+        ],
+        [
+          "Brazilian Beef"
+        ],
+        [
+          "Brazilian Meat Industry"
+        ],
+        [
+          "Computational Simulation"
+        ],
+        [
+          "Food Industry Logistics Slaughterhouse"
+        ],
+        [
+          "Numerical Model"
+        ],
+        [
+          "Process Time Optimization and Meat Processing"
+        ],
+        [
+          "Abattoir"
+        ],
+        [
+          "Carne bovina"
+        ],
+        [
+          "Gado de corte"
+        ],
+        [
+          "Indústria de carne brasileira"
+        ],
+        [
+          "Simulação computacional"
+        ],
+        [
+          "Logística da indústria de alimentos"
+        ],
+        [
+          "Frigorífico modelo numérico"
+        ],
+        [
+          "Otimização do tempo de processo e processamento de carne"
+        ],
+        [
+          "Matadouro"
+        ],
+        [
+          "Simulação de matadouro"
+        ],
+        [
+          "Software de computador"
+        ]
+      ],
+      "title": "Simulação computacional aplicada à otimização da produção de carne bovina no Brasil",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5399",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5399"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Venancio, Emanuel Soares Marques": {
+            "profile": [
+              "http://lattes.cnpq.br/7113538464577667"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_3ca6c5f99e59aba5180d84c21b061859",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE:: CIENCIAS AMBIENTAIS"
+        ],
+        [
+          "Doença pulmonar obstrutiva crônica"
+        ],
+        [
+          "Qualidade de vida"
+        ],
+        [
+          "Autopercepção de saúde"
+        ]
+      ],
+      "title": "Autopercepção da saúde integral em pacientes com doença pulmonar obstrutiva crônica (DPOC) durante internação hospitalar",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5400",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5400"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Oliveira, Simone Lesse Matos de": {
+            "profile": [
+              "http://lattes.cnpq.br/8847917588777356"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_987e0c4731194e2e04c3421328800cc9",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS SOCIAIS APLICADAS::SERVICO SOCIAL"
+        ],
+        [
+          "Provision of services to communities"
+        ],
+        [
+          "Social rights"
+        ],
+        [
+          "Social service"
+        ],
+        [
+          "Prestação de serviços à comunidade"
+        ],
+        [
+          "Direitos sociais"
+        ],
+        [
+          "Serviço social"
+        ]
+      ],
+      "title": "A prestação de serviços à comunidade aplicada pelo Tribunal de Justiça do Estado de Goiás",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5379",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5379"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Henrique Gubert Freua, Bufaiçal": {
+            "profile": [
+              "http://lattes.cnpq.br/4223871577055529"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_7114414a85451a7b9abd2173ccf1e4ce",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE"
+        ],
+        [
+          "Carpal Tunnel Syndrome"
+        ],
+        [
+          "Fibromyalgia"
+        ],
+        [
+          "Neurolysis"
+        ],
+        [
+          "Nerve Compression Syndromes"
+        ],
+        [
+          "Síndrome do Túnel do Carpo"
+        ],
+        [
+          "Fibromialgia"
+        ],
+        [
+          "Neurólise"
+        ],
+        [
+          "Síndromes de Compressão Nervosa"
+        ]
+      ],
+      "title": "Impacto da fibromialgia nos resultados de neurólise do nervo mediano na Síndrome do Túnel do Carpo",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5383",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5383"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Reis, Elisa Barbosa Lopes Santana": {
+            "profile": [
+              "http://lattes.cnpq.br/0691951090823276"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_c478b334b51535145b436bb1383fed5a",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE"
+        ],
+        [
+          "Occupational health"
+        ],
+        [
+          "Quality of life"
+        ],
+        [
+          "Working conditions"
+        ],
+        [
+          "Rural population"
+        ],
+        [
+          "Saúde do trabalhador"
+        ],
+        [
+          "Qualidade de vida"
+        ],
+        [
+          "Condições de trabalho"
+        ],
+        [
+          "Meio rural"
+        ]
+      ],
+      "title": "Fatores associados à satisfação com a vida e à percepção do ambiente e das condições de trabalho em trabalhadores de fazendas de pecuária de corte",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5384",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5384"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Lima, Isadora Soares de": {
+            "profile": [
+              "http://lattes.cnpq.br/1518343269121408"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_8a91c9900819fac6249e4ab1415badb9",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE"
+        ],
+        [
+          "Diagnosis"
+        ],
+        [
+          "Epidemiology"
+        ],
+        [
+          "Infection"
+        ],
+        [
+          "Keratinocytes"
+        ],
+        [
+          "Dengue"
+        ],
+        [
+          "Diagnóstico"
+        ],
+        [
+          "Epidemiologia"
+        ],
+        [
+          "Infecção"
+        ],
+        [
+          "Queratinócitos"
+        ],
+        [
+          "Vírus"
+        ]
+      ],
+      "title": "O efeito da replicação do vírus da dengue em queratinócitos na resposta imunológica",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5388",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5388"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Nobrega, Carlos César Resende": {
+            "profile": [
+              "http://lattes.cnpq.br/6529674116406210"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_39a6e386ae71225a1a26718deda269a5",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS HUMANAS:: TEOLOGIA"
+        ],
+        [
+          "Spirituality"
+        ],
+        [
+          "Secular Spirituality"
+        ],
+        [
+          "Non-religion"
+        ],
+        [
+          "Secularization"
+        ],
+        [
+          "Early Childhood Education"
+        ],
+        [
+          "Espiritualidade"
+        ],
+        [
+          "Espiritualidade Laica"
+        ],
+        [
+          "Sem Religião"
+        ],
+        [
+          "Secularização"
+        ],
+        [
+          "Educação Infantil"
+        ]
+      ],
+      "title": "Espiritualidade laica e educação infantil: o cultivo das qualidades humanas profundas (QHP) nas creches da Cruz de Malta (CMa)",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5386",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5386"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Rocha, Matheus Rocha de Almeida": {
+            "profile": [
+              "http://lattes.cnpq.br/8883916171324788"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_ee6ef5a712e2747a558b72a4b6d7e0dc",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS HUMANAS:: HISTORIA"
+        ],
+        [
+          "Bolsa Família"
+        ],
+        [
+          "Vulnerabilidade social"
+        ],
+        [
+          "Dignidade"
+        ],
+        [
+          "Cidadania"
+        ],
+        [
+          "Social vulnerability"
+        ],
+        [
+          "Citizenship"
+        ]
+      ],
+      "title": "Bolsa família como combate à extrema pobreza e garantia de dignidade e cidadania no Brasil (2004-2018)",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5387",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5387"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Albuquerque, Felipe Magalhães": {
+            "profile": [
+              "http://lattes.cnpq.br/4861241465816800"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_55cfc011a86e3480a52bf2e3ae4f5308",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS HUMANAS:: TEOLOGIA"
+        ],
+        [
+          "Symbolic Violence"
+        ],
+        [
+          "Ideological Alchemy"
+        ],
+        [
+          "Pedagogy of Transition"
+        ],
+        [
+          "Legitimation"
+        ],
+        [
+          "Manuel Ribeiro Rocha"
+        ],
+        [
+          "Violência Simbólica"
+        ],
+        [
+          "Alquimia Ideológica"
+        ],
+        [
+          "Pedagogia da Transição"
+        ],
+        [
+          "Legitimação"
+        ]
+      ],
+      "title": "Violência simbólica e cristandade no Brasil colonial do século XVIII: discursos e práticas de (des)legitimação da escravidão",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5393",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5393"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Lopes, Karita Marques Rodrigues": {
+            "profile": [
+              "http://lattes.cnpq.br/3226955975464548"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_f9871c82e4d0dda728206e8335a87daf",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS SOCIAIS:: SERVICO SOCIAL"
+        ],
+        [
+          "Gender"
+        ],
+        [
+          "Work"
+        ],
+        [
+          "Beef production chain"
+        ],
+        [
+          "Student restaurant"
+        ],
+        [
+          "Gênero"
+        ],
+        [
+          "Trabalho"
+        ],
+        [
+          "Cadeia produtiva da carne bovina"
+        ],
+        [
+          "Restaurante estudantil"
+        ]
+      ],
+      "title": "Gênero, trabalho e cadeia produtiva da carne bovina: a realidade das mulheres do restaurante estudantil do IFG Câmpus Itumbiara",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5394",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5394"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Lima, Thiago Couto": {
+            "profile": [
+              "http://lattes.cnpq.br/5446388701268541"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "PUC_GO_d0986c44b9f1ed1ffb6857585e121ad8",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS SOCIAIS::PSICOLOGIA"
+        ],
+        [
+          "Passion for Work"
+        ],
+        [
+          "Obsessive Passion"
+        ],
+        [
+          "Harmonious Passion"
+        ],
+        [
+          "Systematic Literature Review"
+        ],
+        [
+          "Paixão pelo Trabalho"
+        ],
+        [
+          "Paixão Obsessiva"
+        ],
+        [
+          "Paixão Harmoniosa"
+        ],
+        [
+          "Revisão Sistemática de Literatura"
+        ]
+      ],
+      "title": "Paixão pelo Trabalho Importa? Experiências Laborais de Trabalhadores do Agronegócio",
+      "urls": [
+        {
+          "url": "https://tede2.pucgoias.edu.br/handle/tede/5395",
+          "desc": "https://tede2.pucgoias.edu.br/handle/tede/5395"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Couto, Juliana Brandão da Silveira": {
+            "profile": [
+              "http://lattes.cnpq.br/8014172083865995"
+            ]
+          }
+        },
+        "secondary": {
+          "jupedras@gmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UERJ_be0789bae8f4dd8a345983b14df8e5a0",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS SOCIAIS APLICADAS::DIREITO"
+        ],
+        [
+          "Excise tax"
+        ],
+        [
+          "Iron ore extraction"
+        ],
+        [
+          "Extrafiscality"
+        ],
+        [
+          "Environmental protection"
+        ],
+        [
+          "Right to health"
+        ],
+        [
+          "Fundamental rights"
+        ],
+        [
+          "Federal Constitution"
+        ],
+        [
+          "Imposto seletivo"
+        ],
+        [
+          "Extração de minério de ferro"
+        ],
+        [
+          "Extrafiscalidade"
+        ],
+        [
+          "Proteção ao meio ambiente"
+        ],
+        [
+          "Direito à saúde"
+        ],
+        [
+          "Direitos fundamentais"
+        ],
+        [
+          "Constituição Federal"
+        ]
+      ],
+      "title": "Imposto seletivo sobre a extração: minério de ferro",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25662",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25662"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Monteiro, Angela dos Santos": {
+            "profile": [
+              "http://lattes.cnpq.br/7881159533211363"
+            ]
+          }
+        },
+        "secondary": {
+          "angelamonteiro770@gmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UERJ_198bb428eaff1a213cfa5a1a20ceaf57",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::SAUDE COLETIVA"
+        ],
+        [
+          "Mental Health"
+        ],
+        [
+          "Unified Health System"
+        ],
+        [
+          "Psychiatric Reform"
+        ],
+        [
+          "Art and Citizenship"
+        ],
+        [
+          "Saúde Mental"
+        ],
+        [
+          "Cidadania"
+        ],
+        [
+          "Arteterapia"
+        ],
+        [
+          "Participação Social"
+        ],
+        [
+          "Narrativas Pessoais como assunto"
+        ],
+        [
+          "Reforma Psiquiátrica"
+        ],
+        [
+          "Escrevivência - Metodologia"
+        ],
+        [
+          "Sistema Único de Saúde"
+        ],
+        [
+          "Arte e Cidadania"
+        ]
+      ],
+      "title": "Mentalize a vida com papel Ativo do usuário: Escrevivências sobre liberdade, arte e cidadania na RAPS RESENDE",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25724",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25724"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Grigorovski, Lara Daniel": {
+            "profile": [
+              "http://lattes.cnpq.br/5996824594268287"
+            ]
+          }
+        },
+        "secondary": {
+          "cbc@uerj.br": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UERJ_29f8d07e3415580845a7aa10412bd83b",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::SAUDE COLETIVA"
+        ],
+        [
+          "Domestic violence"
+        ],
+        [
+          "Feminism"
+        ],
+        [
+          "Human rights"
+        ],
+        [
+          "Unified Health System (SUS)"
+        ],
+        [
+          "Violência contra a mulher"
+        ],
+        [
+          "Violência doméstica"
+        ],
+        [
+          "Políticas Públicas"
+        ],
+        [
+          "Determinantes Sociais de Saúde"
+        ],
+        [
+          "Sistema Único de Saúde"
+        ],
+        [
+          "Feminismo"
+        ],
+        [
+          "Direitos Humanos"
+        ]
+      ],
+      "title": "O SUS frente à violência doméstica: a trajetória normativa federal (2004-2024)",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25725",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25725"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Scardua, Mariana Tomasi": {
+            "profile": [
+              "http://lattes.cnpq.br/9220342388695139"
+            ]
+          }
+        },
+        "secondary": {
+          "marianascardua@hotmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UERJ_e1d97b9a2fd7c284efef7a35b74470ee",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::SAUDE COLETIVA"
+        ],
+        [
+          "Specialized Care"
+        ],
+        [
+          "Health Management"
+        ],
+        [
+          "Health Information Systems"
+        ],
+        [
+          "Regionalization"
+        ],
+        [
+          "Gestão em Saúde"
+        ],
+        [
+          "Sistemas de Informação em Saúde"
+        ],
+        [
+          "Atenção Primária à Saúde"
+        ],
+        [
+          "Regionalização da Saúde"
+        ],
+        [
+          "Interoperabilidade da Informação em Saúde"
+        ],
+        [
+          "Sistema Único de Saúde"
+        ],
+        [
+          "Atenção Especializada"
+        ],
+        [
+          "Regionalização"
+        ],
+        [
+          "SUS"
+        ]
+      ],
+      "title": "Ferramentas e estratégias de gestão para atenção especializada no SUS",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25726",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25726"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Gonçalves, Vanessa de Oliveira Gomes": {
+            "profile": [
+              "http://lattes.cnpq.br/5400965447833400"
+            ]
+          }
+        },
+        "secondary": {
+          "vanessagg.ims@gmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UERJ_b6bdcf846f64b76b86a4b9977fb40c67",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::SAUDE COLETIVA"
+        ],
+        [
+          "Autism Spectrum Disorder (ASD)"
+        ],
+        [
+          "Health Services"
+        ],
+        [
+          "Extended bioidentity"
+        ],
+        [
+          "Ethnography"
+        ],
+        [
+          "Transtorno Autístico"
+        ],
+        [
+          "Antropologia cultural"
+        ],
+        [
+          "Autonomia Relacional"
+        ],
+        [
+          "Área Programática de Saúde"
+        ],
+        [
+          "Estratégias de Saúde"
+        ],
+        [
+          "Transtorno do Espectro Autista (TEA)"
+        ],
+        [
+          "Serviços em Saúde"
+        ],
+        [
+          "Bioidentidade estendida"
+        ]
+      ],
+      "title": "A Casa do autista e a reconfiguração das bioidentidades: novas rupturas para desafios do presente",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25764",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25764"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Silva, Davi Correia da": {
+            "profile": [
+              "http://lattes.cnpq.br/7824560842570570"
+            ]
+          }
+        },
+        "secondary": {
+          "davizirt@hotmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UERJ_e474710adf01221fe37b3ea87d0c3c64",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Cognition"
+        ],
+        [
+          "Morphocycle"
+        ],
+        [
+          "Decision-making"
+        ],
+        [
+          "Cognição"
+        ],
+        [
+          "Morfociclo"
+        ],
+        [
+          "Tomada de decisão"
+        ],
+        [
+          "Futebol - Treinamento técnico"
+        ],
+        [
+          "Periodização do treinamento físico"
+        ],
+        [
+          "Jogadores de futebol"
+        ],
+        [
+          "Processo decisório"
+        ]
+      ],
+      "title": "Periodização Tática no futebol : aplicação e respostas táticas e cognitivas dos jogadores ao processo de ensino aprendizagem e treinamento",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25744",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25744"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Batista, Maria Izabel Ferreira": {
+            "profile": [
+              "http://lattes.cnpq.br/4738490370480757"
+            ]
+          }
+        },
+        "secondary": {
+          "mariaizabelfbatista@hotmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UERJ_fb23998a2508e3e709ee51b7f14e200f",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Aging"
+        ],
+        [
+          "Physical exercise"
+        ],
+        [
+          "Cognition"
+        ],
+        [
+          "Envelhecimento"
+        ],
+        [
+          "Exercício físico"
+        ],
+        [
+          "Cognição"
+        ],
+        [
+          "Exercícios físicos"
+        ],
+        [
+          "Treinamento Resistido"
+        ],
+        [
+          "Idosos"
+        ]
+      ],
+      "title": "Efeitos do treinamento resistido nas funções executivas de pessoas idosas",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25745",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25745"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Costa, Victor André Balbino": {
+            "profile": [
+              "http://lattes.cnpq.br/5617379756458540"
+            ]
+          }
+        },
+        "secondary": {
+          "vabc.ef@gmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UERJ_9be2762d683a6fb14f46f38cd333ebdc",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Oxygen uptake"
+        ],
+        [
+          "Cardiopulmonary exercise testing"
+        ],
+        [
+          "Verification phase"
+        ],
+        [
+          "Consumo de oxigênio"
+        ],
+        [
+          "Teste cardiopulmonar de exercício"
+        ],
+        [
+          "Fase de verificação"
+        ],
+        [
+          "Testes de função respiratória"
+        ],
+        [
+          "Testes de função cardíaca"
+        ],
+        [
+          "Consumo de oxigênio – Fisiologia"
+        ],
+        [
+          "Protocolos Clínicos"
+        ]
+      ],
+      "title": "Platô não confirma V̇O2máx : evidências integradas sobre o papel da fase de verificação em populações clínicas e especiais",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25762",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25762"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Robalinho, Maria Juliana de Almeida": {
+            "profile": [
+              "http://lattes.cnpq.br/6311393198575494"
+            ]
+          }
+        },
+        "secondary": {
+          "mariarobalinho@gmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UERJ_649b912b795f3130f14d3d964efc4314",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Football"
+        ],
+        [
+          "Creativity"
+        ],
+        [
+          "Methods of analysis"
+        ],
+        [
+          "Youth football"
+        ],
+        [
+          "Goals"
+        ],
+        [
+          "Contextual variables"
+        ],
+        [
+          "Futebol"
+        ],
+        [
+          "Criatividade"
+        ],
+        [
+          "Métodos de análise"
+        ],
+        [
+          "Categorias de base"
+        ],
+        [
+          "Gols"
+        ],
+        [
+          "Variáveis contextuais"
+        ]
+      ],
+      "title": "Criatividade no futebol de base: métodos de análise e Influência nos gols",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25776",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25776"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Anselmé, Maíra Barros": {
+            "profile": [
+              "http://lattes.cnpq.br/6726386995200728"
+            ]
+          }
+        },
+        "secondary": {
+          "mairabarrosadvocacia@gmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UERJ_bf0f295af302ac651d4e4c6567a02bed",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::SAUDE COLETIVA"
+        ],
+        [
+          "Informed consent"
+        ],
+        [
+          "Dental ethics"
+        ],
+        [
+          "Civil liability"
+        ],
+        [
+          "Professional-patient communication"
+        ],
+        [
+          "Patient autonomy"
+        ],
+        [
+          "Ética Odontológica"
+        ],
+        [
+          "Consentimento Livre e Esclarecido"
+        ],
+        [
+          "Autonomia Pessoal"
+        ],
+        [
+          "Comunicação em Saúde"
+        ],
+        [
+          "Assistência Odontológica"
+        ],
+        [
+          "Bioética"
+        ],
+        [
+          "Comunicação profissional-paciente"
+        ],
+        [
+          "Responsabilidade civil"
+        ],
+        [
+          "Autonomia do paciente"
+        ]
+      ],
+      "title": "O consentimento livre e esclarecido no âmbito da odontologia: uma análise dos acórdãos do Tribunal de Justiça do Estado do Rio de Janeiro",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25758",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25758"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Vaz, Maria Clara Soares de Oliveira": {
+            "profile": [
+              "http://lattes.cnpq.br/9484427270919626"
+            ]
+          }
+        },
+        "secondary": {
+          "mariaclaraovaz@hotmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UERJ_0dfdcd4317d602d45aafa1357412f7b3",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Autism"
+        ],
+        [
+          "Creativity"
+        ],
+        [
+          "Motor competence"
+        ],
+        [
+          "Autismo"
+        ],
+        [
+          "Criatividade"
+        ],
+        [
+          "Competências motoras"
+        ],
+        [
+          "Capacidade motora"
+        ]
+      ],
+      "title": "Relações entre competências motoras e criatividade em indivíduos com Transtorno de Espectro Autista (TEA)",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25759",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25759"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Rodrigues, Guilherme Moraes": {
+            "profile": [
+              "http://lattes.cnpq.br/0555512580216108"
+            ]
+          }
+        },
+        "secondary": {
+          "guilherme.moraesr@gmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UERJ_f5e701a62fcbba10d0eb9cd721f619a0",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Circuit exercise"
+        ],
+        [
+          "High-intensity interval resistance training"
+        ],
+        [
+          "Resistance training"
+        ],
+        [
+          "Prostate cancer"
+        ],
+        [
+          "Muscle strength"
+        ],
+        [
+          "Exercícios em circuitos"
+        ],
+        [
+          "Treinamento intervalado de alta intensidade"
+        ],
+        [
+          "Treinamento resistido"
+        ],
+        [
+          "Neoplasia maligna"
+        ],
+        [
+          "Força muscular"
+        ],
+        [
+          "Circuito de treinamento"
+        ],
+        [
+          "Terapia por exercício"
+        ],
+        [
+          "Câncer – Tratamento"
+        ],
+        [
+          "Força muscular – Testes"
+        ]
+      ],
+      "title": "Efeito do circuito resistido de alta intensidade e curta duração sobre indicadores de aptidão física, aptidão funcional e qualidade de vida em homens com câncer de próstata localizado",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25774",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25774"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Soares, André Luiz Conveniente": {
+            "profile": [
+              "http://lattes.cnpq.br/2920916376651113"
+            ]
+          }
+        },
+        "secondary": {
+          "andresoares94@gmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UERJ_c6f439634b0352ecf9a5de1d31a5062c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Lower extremity"
+        ],
+        [
+          "Muscle development"
+        ],
+        [
+          "Skeletal muscle enlargement"
+        ],
+        [
+          "Aumento do músculo esquelético"
+        ],
+        [
+          "Desenvolvimento muscular"
+        ],
+        [
+          "Extremidade inferior"
+        ],
+        [
+          "Treinamento resistido"
+        ],
+        [
+          "Exercícios físicos"
+        ],
+        [
+          "Força muscular"
+        ],
+        [
+          "Hipertrofia"
+        ],
+        [
+          "Músculo quadríceps"
+        ]
+      ],
+      "title": "Efeito do treinamento contrarresistência com exercícios isolados ou combinados sobre a hipertrofia regional, força e ativação muscular do quadríceps femoral",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25775",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25775"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Almeida, Heloisa Suzano de": {
+            "profile": [
+              "http://lattes.cnpq.br/7856245255552274"
+            ]
+          }
+        },
+        "secondary": {
+          "hsdealmeida@icloud.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UERJ_27b98f32bb1674f6ae5a4ab1d97f8bc1",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Dance"
+        ],
+        [
+          "Ballet"
+        ],
+        [
+          "Health"
+        ],
+        [
+          "Power"
+        ],
+        [
+          "Dança"
+        ],
+        [
+          "Balé"
+        ],
+        [
+          "Saúde"
+        ],
+        [
+          "Poder"
+        ],
+        [
+          "Balé (Dança) - História – Rio de Janeiro (RJ) – Séc. XXI"
+        ],
+        [
+          "Balé (Dança) – Estudo e ensino – Rio de Janeiro (RJ)"
+        ],
+        [
+          "Poder (Ciências sociais) na arte"
+        ],
+        [
+          "Saúde na arte"
+        ]
+      ],
+      "title": "Poder e colonialidade no balé clássico no século XXI: entre caminhos, percepções e sentidos",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25789",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25789"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Augusto, Melinda Marcellos": {
+            "profile": [
+              "https://lattes.cnpq.br/2660932184010042"
+            ]
+          }
+        },
+        "secondary": {
+          "melindamarcellos@gmail.com": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UERJ_2b4713b17f058d7a396dc37318b40cf9",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::SAUDE COLETIVA"
+        ],
+        [
+          "Obstetric Violence"
+        ],
+        [
+          "Inequalities"
+        ],
+        [
+          "Intersectionality"
+        ],
+        [
+          "Saúde da Mulher"
+        ],
+        [
+          "Violência Obstetrícia"
+        ],
+        [
+          "Racismo"
+        ],
+        [
+          "Saúde Reprodutiva"
+        ],
+        [
+          "Obstetrícia"
+        ],
+        [
+          "Sistema Único de Saúde"
+        ],
+        [
+          "Determinantes Social de Saúde"
+        ],
+        [
+          "Rio de Janeiro (Estado)"
+        ],
+        [
+          "Desigualdades"
+        ],
+        [
+          "Interseccionalidade"
+        ]
+      ],
+      "title": "Desigualdade educacional e interseção com raça/cor da pele na ocorrência de violência obstétrica no estado do Rio de Janeiro",
+      "urls": [
+        {
+          "url": "http://www.bdtd.uerj.br/handle/1/25783",
+          "desc": "http://www.bdtd.uerj.br/handle/1/25783"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}

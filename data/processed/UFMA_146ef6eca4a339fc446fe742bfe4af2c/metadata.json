@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_146ef6eca4a339fc446fe742bfe4af2c",
+  "titulo": "Sarcopenia na doença renal crônica",
+  "titulo_normalizado": "sarcopenia na doenca renal cronica",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFMA_146ef6eca4a339fc446fe742bfe4af2c.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFMA_146ef6eca4a339fc446fe742bfe4af2c.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/6988/2/SAMIRA_PARRE%C3%83O.pdf",
+  "tamanho_bytes": 3850001,
+  "sha256": "8404f5f269ee8256c5dca1b61ef00699c76f7637610129eaeb0c0dc4160dd516",
+  "baixado_em": "2026-09-12T18:14:57.482824+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-2631f566d717521b"
+}

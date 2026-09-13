@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_19ea351c7f2ab664ace8b2b5bc54fed2",
+  "titulo": "USO DE TÉCNICAS DE APRENDIZADO DE MÁQUINA PARA ESTIMAÇÃO DE GORDURA CORPORAL EM ADULTOS BRASILEIROS",
+  "titulo_normalizado": "uso de tecnicas de aprendizado de maquina para estimacao de gordura corporal em adultos brasileiros",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFMA_19ea351c7f2ab664ace8b2b5bc54fed2.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFMA_19ea351c7f2ab664ace8b2b5bc54fed2.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/6815/2/HELO%C3%8DSA%20BAIMA%20DA%20SILVA%20SANTOS.pdf",
+  "tamanho_bytes": 366832,
+  "sha256": "9524e9f9567585413dc3228893d3232c5d702079d55c061e7275c1b976d6c19e",
+  "baixado_em": "2026-09-12T18:14:09.659443+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-d0f55607329f94e4"
+}

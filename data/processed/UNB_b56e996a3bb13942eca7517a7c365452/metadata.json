@@ -1,0 +1,16 @@
+{
+  "id": "UNB_b56e996a3bb13942eca7517a7c365452",
+  "titulo": "Graphrag para prontuários eletrônicos : uma abordagem aumentada por grafos para acesso à informação em saúde",
+  "titulo_normalizado": "graphrag para prontuarios eletronicos : uma abordagem aumentada por grafos para acesso a informacao em saude",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNB_b56e996a3bb13942eca7517a7c365452.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNB_b56e996a3bb13942eca7517a7c365452.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/54560/1/JoaoVitorRodriguesBaptista_DISSERT.pdf",
+  "tamanho_bytes": 4359919,
+  "sha256": "93a0a0b99ddfb69207af5191be74ae5f1a62a5763ea67f62f883e92f729b4945",
+  "baixado_em": "2026-09-12T19:10:32.650352+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-a7f60750ac1d7b4e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "UFPE_61cd38ce648326ed4d563a70e2fdbbfd",
+  "titulo": "Análise in silico das mutações da proteína nsp1 do severe acute respiratory syndrome coronavirus 2 no contexto brasileiro",
+  "titulo_normalizado": "analise in silico das mutacoes da proteina nsp1 do severe acute respiratory syndrome coronavirus 2 no contexto brasileiro",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFPE_61cd38ce648326ed4d563a70e2fdbbfd.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFPE_61cd38ce648326ed4d563a70e2fdbbfd.pdf",
+  "url_origem": "https://repositorio.ufpe.br/bitstream/123456789/69365/1/DISSERTA%C3%87%C3%83O%20Caio%20Andrey%20Bezerra%20Janu%C3%A1rio.pdf",
+  "tamanho_bytes": 5310717,
+  "sha256": "56ed13b59b9a03b4e143b11367efef706975e238655992848425af08f7736fb1",
+  "baixado_em": "2026-09-12T18:24:50.875880+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-54a09add4820b825"
+}

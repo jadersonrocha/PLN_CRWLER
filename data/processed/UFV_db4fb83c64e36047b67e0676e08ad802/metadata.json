@@ -1,0 +1,16 @@
+{
+  "id": "UFV_db4fb83c64e36047b67e0676e08ad802",
+  "titulo": "Violência contra a pessoa idosa no Brasil: associação com a depressão e as condições climáticas",
+  "titulo_normalizado": "violencia contra a pessoa idosa no brasil: associacao com a depressao e as condicoes climaticas",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UFV_db4fb83c64e36047b67e0676e08ad802.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UFV_db4fb83c64e36047b67e0676e08ad802.pdf",
+  "url_origem": "https://locus.ufv.br/server/api/core/bitstreams/b642c08e-0b01-41f7-acf4-d9450d1c0b44/content",
+  "tamanho_bytes": 2853422,
+  "sha256": "e523f1caa4da13e7fb1bc2c42370903cc91025a36473e030e01a4cc516c2cbb0",
+  "baixado_em": "2026-09-12T18:13:13.770938+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-6defb85ce89b030d"
+}

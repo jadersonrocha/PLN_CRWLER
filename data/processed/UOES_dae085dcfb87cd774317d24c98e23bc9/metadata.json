@@ -1,0 +1,16 @@
+{
+  "id": "UOES_dae085dcfb87cd774317d24c98e23bc9",
+  "titulo": "Bisfenol A e seus impactos tóxicos na reprodução",
+  "titulo_normalizado": "bisfenol a e seus impactos toxicos na reproducao",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UOES_dae085dcfb87cd774317d24c98e23bc9.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UOES_dae085dcfb87cd774317d24c98e23bc9.pdf",
+  "url_origem": "http://bdtd.unoeste.br:8080/jspui/bitstream/jspui/1767/2/Fernanda%20Luiza%20Guinossi%20Barbosa%20Deak.pdf",
+  "tamanho_bytes": 1111925,
+  "sha256": "0001b70ead5e516b06d946d8e786754b23f6041525721ac66e4fd7541b74cc63",
+  "baixado_em": "2026-09-12T18:12:38.618521+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-64bfd0110d5e4ae4"
+}

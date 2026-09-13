@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_4bd0f7827d06b3ce2d77cabaf6f35327",
+  "titulo": "Classificação de Exames PET de Corpo Inteiro usando Representações MIP e Aprendizado Profundo",
+  "titulo_normalizado": "classificacao de exames pet de corpo inteiro usando representacoes mip e aprendizado profundo",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFMA_4bd0f7827d06b3ce2d77cabaf6f35327.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFMA_4bd0f7827d06b3ce2d77cabaf6f35327.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/6900/2/Celso%20Luiz%20Silva%20Soares%20Filho.pdf",
+  "tamanho_bytes": 5728208,
+  "sha256": "ff51fd241db96852dab7f3be4f335e25a69bf937f32662351320509ccf10a323",
+  "baixado_em": "2026-09-12T18:14:31.716307+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-788d12cc0e54f77a"
+}

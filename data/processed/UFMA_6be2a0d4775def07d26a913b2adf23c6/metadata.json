@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_6be2a0d4775def07d26a913b2adf23c6",
+  "titulo": "Tendência da mortalidade neonatal no nordeste brasileiro de 2014-2023",
+  "titulo_normalizado": "tendencia da mortalidade neonatal no nordeste brasileiro de 2014-2023",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFMA_6be2a0d4775def07d26a913b2adf23c6.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFMA_6be2a0d4775def07d26a913b2adf23c6.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/7031/2/MARTA_SANTANA.pdf",
+  "tamanho_bytes": 1058615,
+  "sha256": "811011d53c970bb996e605e3abc2a1f67a1ece564b3a464119ae084a8eb5a7d6",
+  "baixado_em": "2026-09-12T18:15:06.152835+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-8a07b5c66bd3638a"
+}

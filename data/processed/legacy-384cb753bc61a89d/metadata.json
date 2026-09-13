@@ -1,0 +1,15 @@
+{
+  "id": "legacy-384cb753bc61a89d",
+  "titulo": "Prova de conceito de interoperabilidade de dados de câncer de mama utilizando o padrão HL7 FHIR Health Level Seven Fast Healthcare Interoperability Resources e o Registro Hospitala",
+  "titulo_normalizado": "prova de conceito de interoperabilidade de dados de cancer de mama utilizando o padrao hl7 fhir health level seven fast healthcare interoperability resources e o registro hospitala",
+  "tipo": "dissertacoes",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "legacy-384cb753bc61a89d.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\legacy-384cb753bc61a89d.pdf",
+  "url_origem": null,
+  "tamanho_bytes": 3066157,
+  "sha256": "2a96a14fdb78311103aecf7f4d31645bed1c1b3a0341eb8c72dec5943cff0738",
+  "baixado_em": "2026-09-09T01:06:13.035397+00:00",
+  "status": "processado"
+}

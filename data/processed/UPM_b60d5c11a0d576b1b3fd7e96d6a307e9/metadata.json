@@ -1,0 +1,16 @@
+{
+  "id": "UPM_b60d5c11a0d576b1b3fd7e96d6a307e9",
+  "titulo": "Aplicações da economia comportamental na saúde suplementar",
+  "titulo_normalizado": "aplicacoes da economia comportamental na saude suplementar",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UPM_b60d5c11a0d576b1b3fd7e96d6a307e9.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UPM_b60d5c11a0d576b1b3fd7e96d6a307e9.pdf",
+  "url_origem": "https://adelpha-api.mackenzie.br/server/api/core/bitstreams/927d4c9c-9b6c-4c4c-9e2e-c0044462d267/content",
+  "tamanho_bytes": 1146172,
+  "sha256": "1ef9a3b9c1bb6eed8de3e2c2d52503f9258d84722fe60643d839a3126cb10a59",
+  "baixado_em": "2026-09-12T18:11:10.511057+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-985a6d050e257658"
+}

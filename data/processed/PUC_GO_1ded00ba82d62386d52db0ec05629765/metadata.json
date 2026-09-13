@@ -1,0 +1,16 @@
+{
+  "id": "PUC_GO_1ded00ba82d62386d52db0ec05629765",
+  "titulo": "Simulação computacional aplicada à otimização da produção de carne bovina no Brasil",
+  "titulo_normalizado": "simulacao computacional aplicada a otimizacao da producao de carne bovina no brasil",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "PUC_GO_1ded00ba82d62386d52db0ec05629765.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\PUC_GO_1ded00ba82d62386d52db0ec05629765.pdf",
+  "url_origem": "https://tede2.pucgoias.edu.br/bitstream/tede/5399/2/Pedro%20Henrique%20de%20Almeida%20Lima%20Alexandrino.pdf",
+  "tamanho_bytes": 7183648,
+  "sha256": "fd0279def6ac2a2589aa2e7ff2cecaa6fce9e21594fe5006381e59302436a1bf",
+  "baixado_em": "2026-09-12T18:26:52.202240+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-6c7f9f98dcd4344f"
+}

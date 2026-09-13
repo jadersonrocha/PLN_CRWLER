@@ -1,0 +1,16 @@
+{
+  "id": "UPM_74ad47a31ce9b7e44f04a94ff0b34f3d",
+  "titulo": "Masspec Pen: a revolução na diferenciação ágil e precisa de carnes em análise forense",
+  "titulo_normalizado": "masspec pen: a revolucao na diferenciacao agil e precisa de carnes em analise forense",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UPM_74ad47a31ce9b7e44f04a94ff0b34f3d.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UPM_74ad47a31ce9b7e44f04a94ff0b34f3d.pdf",
+  "url_origem": "https://adelpha-api.mackenzie.br/server/api/core/bitstreams/e47eaeae-62cc-4966-90c4-f2dfc1690ff6/content",
+  "tamanho_bytes": 954032,
+  "sha256": "7ad554cc9ea97dfef03aa2299fd5465fc03af4a481d16882d28a2c86952ddcf0",
+  "baixado_em": "2026-09-12T18:11:43.785239+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-bc3580346880f111"
+}

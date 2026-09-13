@@ -1,0 +1,1546 @@
+{
+  "resultCount": 189817,
+  "records": [
+    {
+      "authors": {
+        "primary": {
+          "Moreira, Jessika Barros": {
+            "profile": [
+              "https://lattes.cnpq.br/3419318348404820"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0009-0008-8323-6030": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFAM_8513d306447903955da9fad368197933",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE: EDUCACAO FISICA"
+        ],
+        [
+          "Educação física - Estudo e Ensino"
+        ],
+        [
+          "Educação física (Ensino fundamental)"
+        ],
+        [
+          "Aprendizagem percepto-motora"
+        ]
+      ],
+      "title": "Além da lona: atividades circenses nas aulas de Educação Física em Coari-Am",
+      "urls": [
+        {
+          "url": "https://tede.ufam.edu.br/handle/tede/11789",
+          "desc": "https://tede.ufam.edu.br/handle/tede/11789"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Santos, Adriane de Almeida": {
+            "profile": [
+              "ttp://lattes.cnpq.br/2491202630911684"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0000-0001-7934-0558": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFAM_73fc1a80f0a845507dd44564d1570c3d",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS HUMANAS: PSICOLOGIA: PSICOLOGIA DO DESENVOLVIMENTO HUMANO: DESENVOLVIMENTO SOCIAL E DA PERSONALIDADE"
+        ],
+        [
+          "CIENCIAS HUMANAS: PSICOLOGIA: FUNDAMENTOS E MEDIDAS DA PSICOLOGIA: TECNICAS DE PROCESSAMENTO ESTATISTICO, MATEMATICO E COMPUTACIONAL EM PSICOLOGIA"
+        ],
+        [
+          "CIENCIAS HUMANAS: PSICOLOGIA: PSICOLOGIA SOCIAL: RELACOES INTERPESSOAIS"
+        ],
+        [
+          "Aprendizado de máquina"
+        ],
+        [
+          "Transtorno de adição à internet"
+        ],
+        [
+          "Dependência de tecnologia"
+        ]
+      ],
+      "title": "Modelo psicobioecológico dimensional de phubbing: uma perspectiva tecno-híbrida com machine learning",
+      "urls": [
+        {
+          "url": "https://tede.ufam.edu.br/handle/tede/11803",
+          "desc": "https://tede.ufam.edu.br/handle/tede/11803"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Marques, C. A. F.": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "FEI_7f74cccb88bc5f0073975bbe31572f63",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Da percepção de benefícios à intenção de compra de alimentos funcionais: o papel da expectativa de transformação do consumidor",
+      "urls": [
+        {
+          "url": "https://repositorio.fei.edu.br/handle/FEI/6159",
+          "desc": "https://repositorio.fei.edu.br/handle/FEI/6159"
+        },
+        {
+          "url": "https://doi.org/10.31414/ADM.2026.D.132294",
+          "desc": "https://doi.org/10.31414/ADM.2026.D.132294"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Silva, César Nogueira": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "FEI_480e963f10b3d3f594865dd03b9eacba",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Aprendizado profundo"
+        ],
+        [
+          "Arritmia"
+        ],
+        [
+          "Eletrocardiograma (ECG)"
+        ],
+        [
+          "Redes neurais convolucionais"
+        ],
+        [
+          "Inteligência artificial explicável (XAI)"
+        ],
+        [
+          "Deep learning"
+        ],
+        [
+          "Arrhythmia"
+        ],
+        [
+          "Electrocardiogram (ECG)"
+        ],
+        [
+          "Convolutional neural networks"
+        ],
+        [
+          "Explainable artificial intelligence (XAI)"
+        ]
+      ],
+      "title": "Classificação de arritmias por aprendizado profundo",
+      "urls": [
+        {
+          "url": "https://repositorio.fei.edu.br/handle/FEI/6139",
+          "desc": "https://repositorio.fei.edu.br/handle/FEI/6139"
+        },
+        {
+          "url": "https://doi.org/10.31414/EE.2026.D.132279",
+          "desc": "https://doi.org/10.31414/EE.2026.D.132279"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Valdo, L.": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "FEI_1a8d2be851145f6e930e457467222898",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "ecossistema"
+        ],
+        [
+          "empreendimentos"
+        ]
+      ],
+      "title": "O julgamento empreendedor e a inserção das DTVS em ecossistemas ao longo das jornadas de ciclo de vida",
+      "urls": [
+        {
+          "url": "https://repositorio.fei.edu.br/handle/FEI/6149",
+          "desc": "https://repositorio.fei.edu.br/handle/FEI/6149"
+        },
+        {
+          "url": "https://doi.org/10.31414/ADM.2025.T.132282",
+          "desc": "https://doi.org/10.31414/ADM.2025.T.132282"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Arruda, Isabel de Souza Andrade": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_c84c962621a54599605024dd9da979a5",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Metodologias alternativas na detecção da resistência à polimixina B",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55251",
+          "desc": "http://repositorio.unb.br/handle/10482/55251"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Paula, Isabela Camargo de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_b2dcc4e8755649e0aa330d28dac0cb1a",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "A qualidade da informação em fontes oficiais de saúde na ótica de profissionais da área",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/55645",
+          "desc": "http://repositorio.unb.br/handle/10482/55645"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Assunção, João Lucas Araujo": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_401ccfb15979e27229825f7897997a56",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Estresse e estilo de vida : uma abordagem de métodos mistos sobre saúde e desenvolvimento humano",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54408",
+          "desc": "http://repositorio.unb.br/handle/10482/54408"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Ribeiro Filho, Walber Rondon": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNB_a7030f54b6ffdafe9496cf5909ff0b2b",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        "Não Informado pela instituição"
+      ],
+      "title": "Mercantilização do corpo : estudo bioético do tráfico de pessoas no Brasil",
+      "urls": [
+        {
+          "url": "http://repositorio.unb.br/handle/10482/54796",
+          "desc": "http://repositorio.unb.br/handle/10482/54796"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "QUADROS, Taciane Laís da Silva": {
+            "profile": [
+              "http://lattes.cnpq.br/5901052802544393"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0009-0009-4075-8311": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_97ffa371ba4dfdbbccfa62952ea1629e",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS HUMANAS::EDUCACAO"
+        ],
+        [
+          "Subjetividades"
+        ],
+        [
+          "Saúde mental"
+        ],
+        [
+          "Névoa cerebral"
+        ],
+        [
+          "Subjectivities"
+        ],
+        [
+          "Mental health"
+        ],
+        [
+          "Brain fog"
+        ]
+      ],
+      "title": "Do impacto ao rastreamento: subjetividades acadêmicas, névoa cerebral e a construção de um protocolo educacional no contexto pós-pandêmico",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18573",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18573"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "DIDONÉ, Pablo Diego": {
+            "profile": [
+              "http://lattes.cnpq.br/1622753433352279"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_a60c7fbf2256d8c041f34de021ae9cd3",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::ENGENHARIAS::ENGENHARIA MECANICA::FENOMENOS DE TRANSPORTE::MECANICA DOS FLUIDOS"
+        ],
+        [
+          "Mineração"
+        ],
+        [
+          "Supressor de poeira"
+        ],
+        [
+          "Vias não pavimentadas"
+        ],
+        [
+          "Poeira fugitiva"
+        ],
+        [
+          "Umidade do solo"
+        ],
+        [
+          "Velocidade de atrito"
+        ],
+        [
+          "Mining"
+        ],
+        [
+          "Dust suppressant"
+        ],
+        [
+          "Unpaved roads"
+        ],
+        [
+          "Fugitive dust"
+        ],
+        [
+          "Soil moisture"
+        ],
+        [
+          "Friction velocity"
+        ]
+      ],
+      "title": "Emissão de poeira em vias não pavimentadas na mineração: avaliação em laboratório e aspectos corporativos",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18239",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18239"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "VALENTE, João Pedro Macedo Santos": {
+            "profile": [
+              "http://lattes.cnpq.br/6912222530432023"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_a3e80c79fd3cb7aa5a58d9c7b5a055bb",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ"
+        ],
+        [
+          "Qualidade da água"
+        ],
+        [
+          "Sazonalidade"
+        ],
+        [
+          "Portos estuarinos"
+        ],
+        [
+          "Gestão de recursos hídricos"
+        ],
+        [
+          "Amazônia"
+        ],
+        [
+          "Water quality"
+        ],
+        [
+          "Seasonality"
+        ],
+        [
+          "Estuarine ports"
+        ],
+        [
+          "Water resources management"
+        ],
+        [
+          "Amazon"
+        ]
+      ],
+      "title": "Avaliação sazonal da qualidade das águas superficiais em áreas portuárias estuarinas da região metropolitana de Belém - Pa",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18353",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18353"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "SILVA, Wherbert Gonçalves da": {
+            "profile": [
+              "https://lattes.cnpq.br/8885533276317286"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_1d9b585ae0acef3a7dcd544da6cc65b4",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS EXATAS E DA TERRA::CIENCIA DA COMPUTACAO::SISTEMAS DE COMPUTACAO"
+        ],
+        [
+          "Detecção de fadiga de condutores"
+        ],
+        [
+          "Visão computacional"
+        ],
+        [
+          "Telemetria veicular"
+        ],
+        [
+          "Lógica nebulosa"
+        ],
+        [
+          "Driver fatigue detection"
+        ],
+        [
+          "Computer vision"
+        ],
+        [
+          "Vehicle telematics"
+        ],
+        [
+          "Fuzzy logic"
+        ]
+      ],
+      "title": "Sistema inteligente de prevenção de fadiga em condutores de veículos na mineração",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18069",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18069"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "SOUZA, Yuri Leandro do Carmo de": {
+            "profile": [
+              "http://lattes.cnpq.br/9739065442955231"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0000-0002-7985-9728": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFPA_e283f9b471050509004a8b51cc7e9247",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS HUMANAS::PSICOLOGIA"
+        ],
+        [
+          "Marital satisfaction"
+        ],
+        [
+          "Satisfação conjugal"
+        ],
+        [
+          "Family"
+        ],
+        [
+          "Disability"
+        ],
+        [
+          "Parental stress"
+        ],
+        [
+          "Gender"
+        ],
+        [
+          "Família"
+        ],
+        [
+          "Deficiência"
+        ],
+        [
+          "Estresse parental"
+        ],
+        [
+          "Gênero"
+        ]
+      ],
+      "title": "Satisfação conjugal em famílias de pessoas com deficiência: o papel do gênero na organização do cuidado e do estresse parental",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18428",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18428"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "CONCEIÇÃO, Maria do Rosário da Silva": {
+            "profile": [
+              "http://lattes.cnpq.br/8153278573580664"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_cdab924732acaf00931a9955bb472864",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS BIOLOGICAS::ECOLOGIA"
+        ],
+        [
+          "Ethnobotany"
+        ],
+        [
+          "Traditional knowledge"
+        ],
+        [
+          "Amazon"
+        ],
+        [
+          "Traditional population"
+        ],
+        [
+          "Useful plants"
+        ],
+        [
+          "Etnobotânica"
+        ],
+        [
+          "Conhecimentos tradicionais"
+        ],
+        [
+          "Amazônia"
+        ],
+        [
+          "População tradicionais"
+        ],
+        [
+          "Plantas úteis"
+        ]
+      ],
+      "title": "Plantas úteis em comunidades quilombolas no municipio de Mocajuba-Pa",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18395",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18395"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "MIRANDA, Livia Martins de": {
+            "profile": [
+              "http://lattes.cnpq.br/6967780985041325"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0009-0009-6760-4021": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_ead7a2f8579bcfd2fdf4901692a60141",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS HUMANAS"
+        ],
+        [
+          "Depression"
+        ],
+        [
+          "Anxiety"
+        ],
+        [
+          "Stress"
+        ],
+        [
+          "Emotional eating"
+        ],
+        [
+          "Neurodivergence"
+        ],
+        [
+          "Depressão"
+        ],
+        [
+          "Ansiedade"
+        ],
+        [
+          "Estresse"
+        ],
+        [
+          "Alimentação emocional"
+        ],
+        [
+          "Neurodivergência"
+        ]
+      ],
+      "title": "Além da criança: saúde mental, estado nutricional e comportamento alimentar de cuidadores de crianças com Transtorno do Espectro Autista na Amazônia brasileira",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18426",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18426"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "PAULA, Roselane de Almeida": {
+            "profile": [
+              "http://lattes.cnpq.br/9737823740997221"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0000-0002-0349-6422": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_2b9aa47b93b857107b985decee43abbc",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE::EDUCACAO FISICA"
+        ],
+        [
+          "Sleep habits"
+        ],
+        [
+          "Mental disorders"
+        ],
+        [
+          "Sport psychology"
+        ],
+        [
+          "Athletic performance"
+        ],
+        [
+          "Hábitos do sono"
+        ],
+        [
+          "Distúrbios mentais"
+        ],
+        [
+          "Psicologia do esporte"
+        ],
+        [
+          "Desempenho esportivo"
+        ]
+      ],
+      "title": "O papel mediador da dificuldade na regulação emocional entre comportamento de sono e burnout em atletas de modalidades coletivas",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18330",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18330"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "REIS, Carliane Cardoso dos": {
+            "profile": [
+              "http://lattes.cnpq.br/5414982827622075"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_72ba3d5c1c120a1b7d89f0e4d92c88df",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS HUMANAS::PSICOLOGIA"
+        ],
+        [
+          "Adição alimentar"
+        ],
+        [
+          "Food addiction"
+        ],
+        [
+          "Obesidade"
+        ],
+        [
+          "Obesity"
+        ],
+        [
+          "Aspectos emocionais"
+        ],
+        [
+          "Emotional aspects"
+        ],
+        [
+          "Atividade física"
+        ],
+        [
+          "Physical activity"
+        ],
+        [
+          "Qualidade do sono"
+        ],
+        [
+          "Sleep quality"
+        ],
+        [
+          "Cirurgia bariátrica"
+        ],
+        [
+          "Bariatric surgery"
+        ]
+      ],
+      "title": "Associação entre comportamentos sugestivos de adição alimentar, fatores clínicos-nutricionais, saúde mental, sono e atividade física em candidatos à cirurgia bariátrica",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18386",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18386"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "LEITE, Juliane Costa": {
+            "profile": [
+              "http://lattes.cnpq.br/2736853219210775"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0000-0001-6530-7378": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFPA_1df3bd7cf420e752b7303a73e4d7a046",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS DA SAUDE::NUTRICAO"
+        ],
+        [
+          "Formação profissional"
+        ],
+        [
+          "Sistema Alimentar Sustentável"
+        ],
+        [
+          "Sustentabilidade ambiental"
+        ],
+        [
+          "Sistemas agroalimentares"
+        ],
+        [
+          "Nutrição - Nutricionista"
+        ],
+        [
+          "Environmental sustainability"
+        ]
+      ],
+      "title": "A formação do nutricionista e a abordagem dos sistemas agroalimentares sustentáveis",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18550",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18550"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "SANTOS, Leonardo Silveira": {
+            "profile": [
+              "http://lattes.cnpq.br/6243516592425183"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0000-0002-7064-1378": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFPA_2cddbb8a1f388bc44f8ecb6247091864",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS HUMANAS::ANTROPOLOGIA"
+        ],
+        [
+          "Bio-etnografia"
+        ],
+        [
+          "Artesãs do cuidado"
+        ],
+        [
+          "Ecossistema dinâmico de cuidado"
+        ],
+        [
+          "Antropofagia do cuidado"
+        ],
+        [
+          "Amazônia"
+        ],
+        [
+          "Bio-ethnography"
+        ],
+        [
+          "Dynamic ecosystem of care"
+        ],
+        [
+          "Anthropophagy of care"
+        ],
+        [
+          "Amazon"
+        ]
+      ],
+      "title": "Bio-etnografias do cuidar: vozes, memórias e ambientes das artesãs do cuidado em universos multissituados da Amazônia paraense",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18298",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18298"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "MELO, Andréa Silva de": {
+            "profile": [
+              "http://lattes.cnpq.br/0674075749736953"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0009-0002-8744-2807": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_fae9f97be66d8e785ade85d05b68614c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS HUMANAS::SOCIOLOGIA"
+        ],
+        [
+          "CNPQ::CIENCIAS HUMANAS::ANTROPOLOGIA"
+        ],
+        [
+          "Informalidade"
+        ],
+        [
+          "Boieiras"
+        ],
+        [
+          "Ver-o-Peso"
+        ],
+        [
+          "Belém"
+        ],
+        [
+          "Amazônia"
+        ],
+        [
+          "Informality"
+        ],
+        [
+          "Women food workers"
+        ],
+        [
+          "Amazon"
+        ]
+      ],
+      "title": "As “Donas” da feira: vivências de boieiras do Ver-o-Peso em Belém/PA",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18411",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18411"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "ROCHA JÚNIOR, José Edberto Gadelha": {
+            "profile": [
+              "http://lattes.cnpq.br/9629710554359470"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0000-0002-6660-1728": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_57d6929113be7f447f35a3e43d557367",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS HUMANAS::PSICOLOGIA"
+        ],
+        [
+          "CNPQ::CIENCIAS HUMANAS::PSICOLOGIA::TRATAMENTO E PREVENCAO PSICOLOGICA::INTERVENCAO TERAPEUTICA"
+        ],
+        [
+          "Gênero"
+        ],
+        [
+          "Gender"
+        ],
+        [
+          "Rules"
+        ],
+        [
+          "Intervention"
+        ],
+        [
+          "Behavioral therapy"
+        ],
+        [
+          "Masculinity"
+        ],
+        [
+          "Regras"
+        ],
+        [
+          "Intervenção"
+        ],
+        [
+          "Terapia comportamental"
+        ],
+        [
+          "Masculinidade"
+        ]
+      ],
+      "title": "Masculinidades e Comportamentos Prejudiciais: Intervenções Comportamentais Baseadas nas Terapias de Terceira Onda",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18384",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18384"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "LOPES, Enzo Kaique da Silva": {
+            "profile": [
+              "http://lattes.cnpq.br/8745708339771555"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0009-0003-2554-1153": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFPA_26bdf6b72f265cb074fbc12ed395a0c3",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS BIOLOGICAS::ECOLOGIA"
+        ],
+        [
+          "Metabolismo do mercúrio"
+        ],
+        [
+          "Variante genética"
+        ],
+        [
+          "Suscetibilidade genética"
+        ],
+        [
+          "População ribeirinha"
+        ],
+        [
+          "População tradicional da Amazônia"
+        ],
+        [
+          "Mercury metabolism"
+        ],
+        [
+          "Genetic variant"
+        ],
+        [
+          "Genetic susceptibility"
+        ],
+        [
+          "Riverside population"
+        ],
+        [
+          "Traditional Amazonian population"
+        ]
+      ],
+      "title": "Polimorfismos genéticos relacionados ao risco de contaminação por mercúrio em populações nativas da Amazônia: uma revisão sistemática, metanálise e abordagem funcional",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18253",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18253"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "SEABRA, Adriene Damasceno": {
+            "profile": [
+              "http://lattes.cnpq.br/7929581113781277"
+            ]
+          }
+        },
+        "secondary": {
+          "https://orcid.org/0000-0002-4367-9098": []
+        },
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFPA_8ec3b6d7f26fb5e1fed5282272692603",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CNPQ::CIENCIAS HUMANAS::EDUCACAO"
+        ],
+        [
+          "Exercício físico"
+        ],
+        [
+          "Criatividade"
+        ],
+        [
+          "Controle inibitório"
+        ],
+        [
+          "Humor"
+        ],
+        [
+          "Docência universitária"
+        ]
+      ],
+      "title": "Exercício físico, criatividade, inibição e humor: interseções entre Neurociências, Ciências do Exercício e Educação",
+      "urls": [
+        {
+          "url": "https://repositorio.ufpa.br/handle/2011/18603",
+          "desc": "https://repositorio.ufpa.br/handle/2011/18603"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Rosa, Patrícia Altermann Batista da": {
+            "profile": [
+              "http://lattes.cnpq.br/9661960472210612"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNIP_00ea42d64e0f49c78a42c94003413853",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS HUMANAS"
+        ],
+        [
+          "Learning"
+        ],
+        [
+          "Feira de Ciências"
+        ],
+        [
+          "Inovação Pedagógica"
+        ],
+        [
+          "Neuroeducação"
+        ],
+        [
+          "Aprendizagem"
+        ],
+        [
+          "Science Fairs"
+        ],
+        [
+          "Pedagogical Innovation"
+        ],
+        [
+          "Neuroeducation"
+        ]
+      ],
+      "title": "Feira de ciências como estratégia de inovação pedagógica para a inclusão da neurociência no contexto escolar",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Maquivatihe, Nordino Francisco": {
+            "profile": [
+              "http://lattes.cnpq.br/6559917595954317"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNIOESTE-1_5a7ffb4892b18c29fab8bb3302db50f2",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIÊNCIAS AGRÁRIAS:AGRONOMIA"
+        ],
+        [
+          "Bioindicadores"
+        ],
+        [
+          "Saúde do solo"
+        ],
+        [
+          "Nematofauna"
+        ],
+        [
+          "Atividade enzimática"
+        ],
+        [
+          "Geoestatística"
+        ]
+      ],
+      "title": "Correlação entre enzimas microbianas no solo e comunidade de nematoides em sistemas de plantio direto orgânico",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Nabão, Vitor Gabriel Verediano": {
+            "profile": [
+              "http://lattes.cnpq.br/1400463171949050"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNIOESTE-1_2d81f4b360055ee4174bff8be0ceed1f",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIÊNCIAS HUMANAS:HISTÓRIA"
+        ],
+        [
+          "Memória"
+        ],
+        [
+          "Políticas públicas"
+        ],
+        [
+          "SUS"
+        ]
+      ],
+      "title": "Entre desafios e conquistas: a história e memória da saúde pública em Terra Roxa–PR (1950-2000)",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Persch, Mônica Cavalheiro": {
+            "profile": [
+              "http://lattes.cnpq.br/8035721839703697"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNIOESTE-1_0bb7b387bdf5dea8557da3a69f416eed",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS DA SAUDE::ODONTOLOGIA"
+        ],
+        [
+          "O-ring"
+        ],
+        [
+          "Dental Implants"
+        ],
+        [
+          "Mandibular Overdenture"
+        ],
+        [
+          "Prosthetic Maintenance"
+        ],
+        [
+          "O-ring"
+        ],
+        [
+          "Implantes Dentários"
+        ],
+        [
+          "Overdenture Mandibular"
+        ],
+        [
+          "Manutenção Protética."
+        ]
+      ],
+      "title": "Estudo Retrospectivo Longitudinal com Acompanhamento de 13 Anos de Overdentures Mandibulares Retidas por O-ring",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Lucca, Thaynnan Aline Begozzi Liotto": {
+            "profile": [
+              "http://lattes.cnpq.br/9037461193307258"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UNIOESTE-1_af6e443ec939dbfe7fa5065185435de1",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "CIENCIAS AGRARIAS::ENGENHARIA AGRICOLA"
+        ],
+        [
+          "Geotechnologies"
+        ],
+        [
+          "Thermal comfort"
+        ],
+        [
+          "Land use and land cover"
+        ],
+        [
+          "Surface temperature."
+        ],
+        [
+          "Geotecnologias"
+        ],
+        [
+          "Conforto térmico"
+        ],
+        [
+          "Uso e cobertura da terra"
+        ],
+        [
+          "Temperatura de Superfície"
+        ]
+      ],
+      "title": "Comparação Multi-Temporal da Temperatura da Superfície Terrestre em Cascavel - PR (2005–2025)",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Klauck, Caroline Maliska": {
+            "profile": [
+              "http://lattes.cnpq.br/4890881151013995"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UNIOESTE-1_183dddd5ed9f44e9f9fd0e962463450c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Biologia, processo saúde doenças e políticas de saúde"
+        ],
+        [
+          "Autistic disorder"
+        ],
+        [
+          "Child nutrition"
+        ],
+        [
+          "Food Fussiness"
+        ],
+        [
+          "Parent-Child Relations"
+        ],
+        [
+          "Autismo infantil"
+        ],
+        [
+          "Alimentação da criança"
+        ],
+        [
+          "Seletividade alimentar"
+        ],
+        [
+          "Relações Pais-filho"
+        ]
+      ],
+      "title": "Avaliação do comportamento alimentar de crianças com transtorno do espectro autista (TEA) e a atitude dos cuidadores no momento das refeições",
+      "urls": []
+    }
+  ],
+  "status": "OK"
+}

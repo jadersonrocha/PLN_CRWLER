@@ -1,0 +1,16 @@
+{
+  "id": "UFF-2_87db717325900a98a563e620933e638c",
+  "titulo": "Avaliação clínica de uma resina composta quimicamente ativada alternativa ao amálgama: ensaio clínico randomizado, duplo-cego",
+  "titulo_normalizado": "avaliacao clinica de uma resina composta quimicamente ativada alternativa ao amalgama: ensaio clinico randomizado, duplo-cego",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFF-2_87db717325900a98a563e620933e638c.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFF-2_87db717325900a98a563e620933e638c.pdf",
+  "url_origem": "https://app.uff.br/riuff/bitstream/handle/1/43164/Dissertac%CC%A7a%CC%83o%20mestrado%20Carolina%20da%20Costa.pdf?sequence=1&isAllowed=y",
+  "tamanho_bytes": 2168128,
+  "sha256": "c7b996f665e9ab5d1f415481902afdcb03e87d49da857f00f6d5e785831fc65a",
+  "baixado_em": "2026-09-12T18:23:59.810769+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-97cd6e60577f2941"
+}

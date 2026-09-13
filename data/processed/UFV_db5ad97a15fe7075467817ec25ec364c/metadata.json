@@ -1,0 +1,16 @@
+{
+  "id": "UFV_db5ad97a15fe7075467817ec25ec364c",
+  "titulo": "Controle químico e biológico por fungos nematófagos das nematodioses gastrintestinais de equinos",
+  "titulo_normalizado": "controle quimico e biologico por fungos nematofagos das nematodioses gastrintestinais de equinos",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UFV_db5ad97a15fe7075467817ec25ec364c.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UFV_db5ad97a15fe7075467817ec25ec364c.pdf",
+  "url_origem": "https://locus.ufv.br/server/api/core/bitstreams/fd09749e-57ac-4390-88f3-d4705b7ac56f/content",
+  "tamanho_bytes": 823190,
+  "sha256": "0ccec5acd18398582d35c6db8fc2f9f6a43318ee58fb6c5eebca1baa731cba2d",
+  "baixado_em": "2026-09-12T18:13:20.928425+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-1457b29c2d764a72"
+}

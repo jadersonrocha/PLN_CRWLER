@@ -1,0 +1,1452 @@
+{
+  "resultCount": 189817,
+  "records": [
+    {
+      "authors": {
+        "primary": {
+          "Carmo, Tábata Alves do": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFV_db5ad97a15fe7075467817ec25ec364c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Equinos – Parasitoses gastrointestinais"
+        ],
+        [
+          "Ciatostomíneos – Resistência a anti-helmínticos"
+        ],
+        [
+          "Fungos nematófagos – Controle biológico"
+        ],
+        [
+          "Anti-helmínticos – Eficácia"
+        ],
+        [
+          "Resistência a anti-helmínticos"
+        ],
+        [
+          "Duddingtonia flagrans"
+        ],
+        [
+          "Nematoides gastrointestinais – Equinos"
+        ],
+        [
+          "Ivermectina – Resistência"
+        ],
+        [
+          "Controle integrado de parasitos"
+        ],
+        [
+          "CIENCIAS AGRARIAS::MEDICINA VETERINARIA"
+        ]
+      ],
+      "title": "Controle químico e biológico por fungos nematófagos das nematodioses gastrintestinais de equinos",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35218",
+          "desc": "https://locus.ufv.br/handle/123456789/35218"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.138",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.138"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Siqueira, Marcello Rebello Lignani": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFV_0bc44d104743a166c5763f8454dc99c2",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Idosos – Saúde social"
+        ],
+        [
+          "Idadismo"
+        ],
+        [
+          "Discriminação por idade"
+        ],
+        [
+          "Participação social – Idosos"
+        ],
+        [
+          "Sociabilidade – Idosos"
+        ],
+        [
+          "Envelhecimento – Aspectos sociais"
+        ],
+        [
+          "Trabalho voluntário – Idosos"
+        ],
+        [
+          "Estudos transversais – Saúde do idoso"
+        ],
+        [
+          "Ciências da Saúde"
+        ]
+      ],
+      "title": "Sociabilidade e percepção de discriminação por adultos mais velhos e pessoas idosas: um estudo transversal brasileiro",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35335",
+          "desc": "https://locus.ufv.br/handle/123456789/35335"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.129",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.129"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Franchini, Maria das Graças Barros": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFV_1090ef98f21ffbf722ad55b72ec4948e",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Inadimplência (Finanças)"
+        ],
+        [
+          "Economia do bem-estar"
+        ],
+        [
+          "Famílias - Finanças"
+        ],
+        [
+          "Dívidas"
+        ],
+        [
+          "CIENCIAS SOCIAIS APLICADAS::ECONOMIA::ECONOMIA DO BEM-ESTAR SOCIAL"
+        ]
+      ],
+      "title": "Influência da inadimplência das famílias sobre o bem-estar subjetivo no Brasil",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35401",
+          "desc": "https://locus.ufv.br/handle/123456789/35401"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.278",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.278"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Piermatei, Álvaro Luiz Miranda": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFV_9df57ab4d4317e1871d1a56c2c358f32",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Obesidade"
+        ],
+        [
+          "Sorgo"
+        ],
+        [
+          "Nutrição"
+        ],
+        [
+          "Camundongos como animais de laboratório"
+        ],
+        [
+          "CIENCIAS DA SAUDE::NUTRICAO::BIOQUIMICA DA NUTRICAO"
+        ]
+      ],
+      "title": "Efeito do farelo de sorgo BRS 305 na saciedade no eixo intestino-cérebro em camundongos obesos",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35365",
+          "desc": "https://locus.ufv.br/handle/123456789/35365"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.226",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.226"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Santos, Thifani Ramos": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFV_4102627efa34ccaf838c4d6c9f814642",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Bovinos de leite - Saúde"
+        ],
+        [
+          "Agentes antiifecciosos"
+        ],
+        [
+          "Variações sazonais - Doenças"
+        ],
+        [
+          "CIENCIAS BIOLOGICAS::BIOQUIMICA::BIOLOGIA MOLECULAR"
+        ]
+      ],
+      "title": "Dinâmica sazonal do resistoma em Staphylococcaceae e matrizes ambientais de fazendas leiteiras no sudeste do Brasil",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35364",
+          "desc": "https://locus.ufv.br/handle/123456789/35364"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.193",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.193"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Viana, Vitor Emanuel Lanes": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFV_02ec834e2acf9f24782c7374654c2b1a",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Bacteriófagos"
+        ],
+        [
+          "Bactérias patogênicas - Controle biológico"
+        ],
+        [
+          "Bactérias patogênicas - Resistência à drogas"
+        ],
+        [
+          "Bioquímica Aplicada"
+        ]
+      ],
+      "title": "De efluentes agrícolas a potencial biotecnológico: pGLS, um bacteriófago temperado inovador e resistente com atividade sinérgica e amplas propriedades antibiofilme contra Staphylococcus e Mammaliicoccus",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35286",
+          "desc": "https://locus.ufv.br/handle/123456789/35286"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.208",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.208"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Silva, Gualberto Souza Lima e": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFV_00003c58121ae16958b04a27c6da7d10",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Fundo de Participação dos Municípios (Brasil)"
+        ],
+        [
+          "Compensação financeira pela exploração de recursos minerais"
+        ],
+        [
+          "Federalismo"
+        ],
+        [
+          "Desenvolvimento econômico - Aspectos sociais"
+        ],
+        [
+          "Finanças públicas"
+        ],
+        [
+          "Administração Pública"
+        ]
+      ],
+      "title": "Entre a redistribuição e a compensação: implicações fiscais e socioeconômicas do FPM e da CFEM nos municípios brasileiros",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35202",
+          "desc": "https://locus.ufv.br/handle/123456789/35202"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.118",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.118"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Oliveira, Gustavo Antonio de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFV_a8c55feeb4f30b724b0db2b9c4d2b4fe",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Ansiedade"
+        ],
+        [
+          "Mães"
+        ],
+        [
+          "Distúrbio do déficit de atenção com hiperatividade"
+        ],
+        [
+          "Crianças com déficit de atenção"
+        ],
+        [
+          "Déficit de atenção em adolescentes"
+        ],
+        [
+          "CIENCIAS BIOLOGICAS::IMUNOLOGIA::IMUNOLOGIA APLICADA"
+        ]
+      ],
+      "title": "Ansiedade em mães de crianças e adolescentes com transtorno de defict de atenção e hiperatividade virgens de tratamento",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35332",
+          "desc": "https://locus.ufv.br/handle/123456789/35332"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.170",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.170"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Schiavo, Paula Amorim": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFV_526a0613e03064894c732fd7863367f3",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Plano de Contingência para Febre Aftosa (Brasil) - Avaliação"
+        ],
+        [
+          "Febre aftosa"
+        ],
+        [
+          "Vigilância sanitária"
+        ],
+        [
+          "Biossegurança"
+        ],
+        [
+          "Epidemiologia veterinária"
+        ],
+        [
+          "CIENCIAS BIOLOGICAS::BIOQUIMICA::BIOLOGIA MOLECULAR"
+        ]
+      ],
+      "title": "Adequação do plano de contingência para febre aftosa ao status “livre sem vacinação” no Brasil: avaliação crítica da governança e da capacidade de resposta",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35431",
+          "desc": "https://locus.ufv.br/handle/123456789/35431"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.274",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.274"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Martínez Torres, Ana Maria": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFV_193a24ad89b1547a854234ce00868c94",
+      "languages": [
+        "eng"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Biossurfactantes"
+        ],
+        [
+          "Biotecnologia"
+        ],
+        [
+          "Agentes anti-infecciosos"
+        ],
+        [
+          "Biossegurança"
+        ],
+        [
+          "Processos e produtos microbiológicos"
+        ]
+      ],
+      "title": "Biotechnological prospects of rhamnolipids: production, surface tension activity, environmental applications and antimicrobial therapeutic potential",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35252",
+          "desc": "https://locus.ufv.br/handle/123456789/35252"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.100",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.100"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Rocha, Ariane Ribeiro de Freitas": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFV_36af6bae33a67ad11607ed255a1c5e2a",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Ciência da Nutrição"
+        ],
+        [
+          "CIENCIAS DA SAUDE::NUTRICAO::ANALISE NUTRICIONAL DE POPULACAO"
+        ]
+      ],
+      "title": "Risco cardiometabólico na adolescência e influência das condições de nascimento na projeção do risco na vida adulta: estudo de coorte com dados retrospectivos e prospectivos",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35226",
+          "desc": "https://locus.ufv.br/handle/123456789/35226"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.108",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.108"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Campos, Juliana Ribeiro Mendes": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFV_7d297a6ed4d8f91531945ecbbe597685",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Saúde bucal"
+        ],
+        [
+          "Acesso aos serviços de saúde"
+        ],
+        [
+          "Serviços de odontologia comunitária"
+        ],
+        [
+          "Percepção de padrões"
+        ],
+        [
+          "CIENCIAS DA SAUDE::SAUDE COLETIVA::SAUDE PUBLICA"
+        ]
+      ],
+      "title": "Percepção dos profissionais da atenção primária e gestores: sobre os desafios no encaminhamento para os centros de especialidades odontológicas de uma microrregião de saúde",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35334",
+          "desc": "https://locus.ufv.br/handle/123456789/35334"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.214",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.214"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Vasconcellos, Cristiane de Figueiredo": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFV_0c4d35034993d041cdaa37a7779d7983",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Ciências da Saúde"
+        ]
+      ],
+      "title": "Riscos psicossociais e saúde mental no magistério superior: estresse, ansiedade e depressão em docentes de uma universidade federal",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35319",
+          "desc": "https://locus.ufv.br/handle/123456789/35319"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.109",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.109"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Raimundo, Vagner Dias": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFV_8086a0923dab4bf96da80fda3b0ba2e9",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Leishmaniose visceral - Tratamento"
+        ],
+        [
+          "Biotecnologia"
+        ],
+        [
+          "Vacinas de mRNA"
+        ],
+        [
+          "CIENCIAS BIOLOGICAS::PARASITOLOGIA::PROTOZOOLOGIA DE PARASITOS"
+        ]
+      ],
+      "title": "Leishmaniose visceral: uso de heparina 2-O-3-O dessulfatada (ODSH) no tratamento experimental em modelo murino e desenvolvimento de vacina de mRNA",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35303",
+          "desc": "https://locus.ufv.br/handle/123456789/35303"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.084",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.084"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Fontes, Ramon Ribeiro": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFV_bfc9ffcd54b805d210435da839a7d066",
+      "languages": [
+        "eng"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Isolamento acústico"
+        ],
+        [
+          "Gesso"
+        ],
+        [
+          "Borracha - Reaproveitamento"
+        ],
+        [
+          "Engenharia Civil"
+        ]
+      ],
+      "title": "Investigation of the use of shredded tire rubber in gypsum boards for sound absorption purposes",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35439",
+          "desc": "https://locus.ufv.br/handle/123456789/35439"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.263",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.263"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Silva, Jonathan Fagundes da": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "UFV_d49aaca88f51afc350004fc3d25ecd10",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Mulheres do campo - Viçosa (MG)"
+        ],
+        [
+          "Mulheres no desenvolvimento da comunidade - Viçosa (MG)"
+        ],
+        [
+          "Interseccionalidade (Sociologia)"
+        ],
+        [
+          "Apropriação cultural"
+        ],
+        [
+          "Comunicação no desenvolvimento rural"
+        ],
+        [
+          "Conectividade (Computadores)"
+        ],
+        [
+          "Extensão Rural"
+        ]
+      ],
+      "title": "Mulheres rurais e TIC: apropriações, conectividade e acesso a direitos na Zona da Mata de Minas Gerais",
+      "urls": [
+        {
+          "url": "https://locus.ufv.br/handle/123456789/35337",
+          "desc": "https://locus.ufv.br/handle/123456789/35337"
+        },
+        {
+          "url": "https://doi.org/10.47328/ufvbbt.2026.202",
+          "desc": "https://doi.org/10.47328/ufvbbt.2026.202"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "Lima, Gabriela Cristina de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "USP_7b31e2d2bcf671817750c46b3b4bcc44",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Aviação Civil"
+        ],
+        [
+          "Civil Aviation"
+        ],
+        [
+          "Conciliação Trabalho-Família"
+        ],
+        [
+          "Maternidade"
+        ],
+        [
+          "Motherhood"
+        ],
+        [
+          "Mulheres Piloto"
+        ],
+        [
+          "Occupational Health of Female Pilots"
+        ],
+        [
+          "Saúde da Trabalhadora Aeronauta"
+        ],
+        [
+          "Women Pilots"
+        ],
+        [
+          "Work-Family Balance"
+        ]
+      ],
+      "title": "Mulher, aviação civil e maternidade: os desafios de conciliar vida profissional com a maternidade para pilotos",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Chiavegato, Victor Oliveira": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "USP_0fad3d582f0345e1cfc5e16a5c5eb96c",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Brazil's Unified Health System"
+        ],
+        [
+          "COVID 19"
+        ],
+        [
+          "COVID-19"
+        ],
+        [
+          "Regulação no SUS"
+        ],
+        [
+          "Regulation in the SUS"
+        ],
+        [
+          "Resilience"
+        ],
+        [
+          "Resiliência"
+        ],
+        [
+          "Sistema Único de Saúde"
+        ]
+      ],
+      "title": "Arranjos tecnológicos de cuidado na rede de atenção hospitalar e de urgência e emergência para o enfrentamento da COVID-19 no ABC Paulista",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Pereira, Taynna Tatiane": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "USP_d82879a517b4c3acd10ca8bb2d7d5a17",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Avaliação de Tecnologias de Saúde"
+        ],
+        [
+          "Carcinoma Pulmonar de Células não Pequenas"
+        ],
+        [
+          "Epidermal Growth Factor Receptor"
+        ],
+        [
+          "Fator de Crescimento Epidérmico"
+        ],
+        [
+          "Health Technology Assessment"
+        ],
+        [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        [
+          "Revisão Sistemática"
+        ],
+        [
+          "Systematic Review."
+        ],
+        [
+          "Targeted Therapy"
+        ],
+        [
+          "Terapia de Alvo Molecular"
+        ]
+      ],
+      "title": "O uso de inibidores de tirosina quinase do receptor do fator de crescimento epitelial (EGFR TKIs) para o tratamento do câncer de pulmão de não-pequenas células avançado ou metastático: uma overview de revisões sistemáticas",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Schiebelbein, Bruna Emanuele": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "USP_26d6e98f3555d1e0df2511fdab3ac05c",
+      "languages": [
+        "eng"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Avaliação de campo"
+        ],
+        [
+          "Curvas de interpretação"
+        ],
+        [
+          "On-farm assessments"
+        ],
+        [
+          "Qualidade do solo"
+        ],
+        [
+          "Scoring curves"
+        ],
+        [
+          "Soil quality"
+        ]
+      ],
+      "title": "Development of on-farm and computational tools for assessing soil health in Brazilian croplands",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Alvarado Castro, Jeniffer Rebeca": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "USP_a0baec89f5db62dd758ec1101d1e8785",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Calf nutrition"
+        ],
+        [
+          "Dieta sólida"
+        ],
+        [
+          "Fiber"
+        ],
+        [
+          "Fibra"
+        ],
+        [
+          "Nutrição de bezerros"
+        ],
+        [
+          "Solid diet"
+        ],
+        [
+          "TMR"
+        ]
+      ],
+      "title": "Qualidade e tamanho de partícula do feno em rações completas para bezerros leiteiros",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Nascimento, Carolina Salgado do": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "USP_b46a26b18d3bea9b5004fe7fc164d006",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Absorção de dois fótons"
+        ],
+        [
+          "Bacterial resistance"
+        ],
+        [
+          "Espectroscopia"
+        ],
+        [
+          "Formação de tripleto"
+        ],
+        [
+          "Resistência bacteriana"
+        ],
+        [
+          "Spectroscopy"
+        ],
+        [
+          "Triplet state formation"
+        ],
+        [
+          "Two-photon absorption"
+        ]
+      ],
+      "title": "Estudos fotofísicos de porfirinas funcionalizadas e a aplicação na inativação fotodinâmica de Staphylococcus aureus",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Oliveira, Arnold Barbosa de": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "USP_87d60f1bfe44bb18676bb966e5c3ee05",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Agriculture"
+        ],
+        [
+          "Agropecuária"
+        ],
+        [
+          "Decarbonization"
+        ],
+        [
+          "Descarbonização"
+        ],
+        [
+          "Ecologia"
+        ],
+        [
+          "Ecology"
+        ],
+        [
+          "Microbiologia"
+        ],
+        [
+          "Microbiology"
+        ],
+        [
+          "Simbiose"
+        ],
+        [
+          "Symbiosis"
+        ]
+      ],
+      "title": "Estoque de carbono, atividade enzimática e atributos físicos em nitossolo vermelho sob sucessão soja/milho-braquiária e manejo de inoculantes em Londrina/PR",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Vieira, Gabriel Natulini": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "USP_f02522c2a8dee22140cda0bc2827838f",
+      "languages": [
+        "eng"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "escalonamento"
+        ],
+        [
+          "fotoeletrolisador"
+        ],
+        [
+          "green hydrogen"
+        ],
+        [
+          "hidrogênio verde"
+        ],
+        [
+          "photoelectrolyser"
+        ],
+        [
+          "scalable"
+        ]
+      ],
+      "title": "Design and evaluation of a low-cost photoelectrolyser by vat polymerization for green hydrogen production",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "Biaty, Flávia Paladino": []
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "doctoralThesis"
+      ],
+      "id": "USP_604812a9efbb15a834fe8a44752522d3",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Small Modular Reactors (SMRs)"
+        ],
+        [
+          "custos ambientais"
+        ],
+        [
+          "decommissioning"
+        ],
+        [
+          "descomissionamento"
+        ],
+        [
+          "Environmental costs"
+        ],
+        [
+          "environmental valuation"
+        ],
+        [
+          "nuclear power plants"
+        ],
+        [
+          "usinas nucleares"
+        ],
+        [
+          "valoração ambiental"
+        ]
+      ],
+      "title": "Desenvolvimento de um programa para cálculo do custo ambiental das fases de construção e descomissionamento de usinas nucleares brasileiras",
+      "urls": []
+    },
+    {
+      "authors": {
+        "primary": {
+          "MATOS, Ana Gabrielly de Melo": {
+            "profile": [
+              "http://lattes.cnpq.br/1409134844631350"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFMA_26fb06270e20434e0684961fe8a547be",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Cancerologia"
+        ],
+        [
+          "Vulvar neoplasms;"
+        ],
+        [
+          "HPV;"
+        ],
+        [
+          "Immunohistochemistry;"
+        ],
+        [
+          "PCR;"
+        ],
+        [
+          "p16INK4a"
+        ],
+        [
+          "Neoplasias vulvares;"
+        ],
+        [
+          "HPV;"
+        ],
+        [
+          "Imuno-histoquímica;"
+        ],
+        [
+          "PCR;"
+        ],
+        [
+          "p16INK4"
+        ]
+      ],
+      "title": "IDENTIFICAÇÃO DOS ASPECTOS CLÍNICOS E EPIDEMIOLÓGICOS E PREVALÊNCIA DO HPV EM AMOSTRAS DE PACIENTES COM CÂNCER DE VULVA DO ESTADO DO MARANHÃO",
+      "urls": [
+        {
+          "url": "https://tedebc.ufma.br/jspui/handle/tede/6698",
+          "desc": "https://tedebc.ufma.br/jspui/handle/tede/6698"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "SILVA FILHO, José Américo da": {
+            "profile": [
+              "http://lattes.cnpq.br/3327414213289124"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFMA_056ecd881e6c889996971ce4b9744a01",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Ciências da Saúde"
+        ],
+        [
+          "cardiovascular diseases;"
+        ],
+        [
+          "cancer;"
+        ],
+        [
+          "diabetes mellitus;"
+        ],
+        [
+          "chronic respiratory diseases;"
+        ],
+        [
+          "primary health care."
+        ],
+        [
+          "doenças cardiovasculares;"
+        ],
+        [
+          "neoplasias diabetes mellitus;"
+        ],
+        [
+          "doenças respiratórias;"
+        ],
+        [
+          "atenção primária à saúde."
+        ]
+      ],
+      "title": "Mortalidade por doenças crônicas não transmissíveis no Maranhão: análise temporal e alinhamento com a agenda 2030",
+      "urls": [
+        {
+          "url": "https://tedebc.ufma.br/jspui/handle/tede/6719",
+          "desc": "https://tedebc.ufma.br/jspui/handle/tede/6719"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "LEITE, Alanna Mylla Costa": {
+            "profile": [
+              "http://lattes.cnpq.br/7801431344380600"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFMA_ba6fcb140f3ebeaa64692bf0d52f3720",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Ginecologia e Obstetrícia"
+        ],
+        [
+          "Vulvovaginal symptoms;"
+        ],
+        [
+          "Vulvovaginal candidiasis;"
+        ],
+        [
+          "Epidemiology;"
+        ],
+        [
+          "Ethnopharmacology;"
+        ],
+        [
+          "Women’s health"
+        ],
+        [
+          "Sintomas vulvovaginais;"
+        ],
+        [
+          "Candidíase Vulvovaginal;"
+        ],
+        [
+          "Epidemiologia;"
+        ],
+        [
+          "Etnofarmacologia;"
+        ],
+        [
+          "Saúde da mulher"
+        ]
+      ],
+      "title": "INVESTIGAÇÃO EPIDEMIOLÓGICA E ETNOFARMACOLÓGICA EM MULHERES COM SINTOMAS VULVOVAGINAIS EM UM MUNICÍPIO DA BAIXADA MARANHENSE",
+      "urls": [
+        {
+          "url": "https://tedebc.ufma.br/jspui/handle/tede/6730",
+          "desc": "https://tedebc.ufma.br/jspui/handle/tede/6730"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "NOGUEIRA , Camila Cristina Silva Barreto": {
+            "profile": [
+              "http://lattes.cnpq.br/8295977043751850"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFMA_2ab6052da838f7a26ccdc3a7aee84548",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Saúde Pública"
+        ],
+        [
+          "digital health;"
+        ],
+        [
+          "health information systems;"
+        ],
+        [
+          "primary health care;"
+        ],
+        [
+          "health services administration;"
+        ],
+        [
+          "health personnel attitude."
+        ],
+        [
+          "saúde digital;"
+        ],
+        [
+          "sistemas de informações em saúde,"
+        ],
+        [
+          "atenção primária à saúde,"
+        ],
+        [
+          "administração dos serviços de saúde;"
+        ],
+        [
+          "atitude do pessoal de saúde;"
+        ]
+      ],
+      "title": "Conhecimentos e práticas associadas ao uso de tecnologias digitais em saúde: percepções de gerentes de unidades básicas de saúde do município de São Luís sobre saúde digital",
+      "urls": [
+        {
+          "url": "https://tedebc.ufma.br/jspui/handle/tede/6748",
+          "desc": "https://tedebc.ufma.br/jspui/handle/tede/6748"
+        }
+      ]
+    },
+    {
+      "authors": {
+        "primary": {
+          "SILVA, Naisy Mares Furtado Muniz": {
+            "profile": [
+              "http://latt es.cnpq.br/8651482612523230"
+            ]
+          }
+        },
+        "secondary": [],
+        "corporate": []
+      },
+      "formats": [
+        "masterThesis"
+      ],
+      "id": "UFMA_2f536ca696db398dc888c6cd26d76557",
+      "languages": [
+        "por"
+      ],
+      "series": [],
+      "subjects": [
+        [
+          "Saúde Pública"
+        ],
+        [
+          "occupational health;"
+        ],
+        [
+          "metabolic syndrome;"
+        ],
+        [
+          "quality of life;"
+        ],
+        [
+          "cardiovascular risk factors."
+        ],
+        [
+          "saúde do trabalhador;"
+        ],
+        [
+          "síndrome metabólica;"
+        ],
+        [
+          "qualidade de vida;"
+        ],
+        [
+          "fatores de risco cardiovascular;"
+        ]
+      ],
+      "title": "Prevalência de síndrome metabólica e fatores associados em agentes comunitários de saúde do município de São José de Ribamar-MA.",
+      "urls": [
+        {
+          "url": "https://tedebc.ufma.br/jspui/handle/tede/6749",
+          "desc": "https://tedebc.ufma.br/jspui/handle/tede/6749"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}

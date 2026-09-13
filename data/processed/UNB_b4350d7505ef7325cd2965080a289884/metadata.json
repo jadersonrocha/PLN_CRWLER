@@ -1,0 +1,16 @@
+{
+  "id": "UNB_b4350d7505ef7325cd2965080a289884",
+  "titulo": "Status de vitamina D, lactato desidrogenase, saúde musculoesquelética e toxicidade à quimioterapia em mulheres com câncer de mama inicial",
+  "titulo_normalizado": "status de vitamina d, lactato desidrogenase, saude musculoesqueletica e toxicidade a quimioterapia em mulheres com cancer de mama inicial",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UNB_b4350d7505ef7325cd2965080a289884.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UNB_b4350d7505ef7325cd2965080a289884.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/54676/1/ThaisMunizMontalvaoSousa_TESE.pdf",
+  "tamanho_bytes": 5350833,
+  "sha256": "e115ee7cfbfd0289d6ae8ad8dd48bd94fded4ba7cf17215849e9a89b7bbce210",
+  "baixado_em": "2026-09-12T19:11:29.874616+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-834881c1e886d3d2"
+}

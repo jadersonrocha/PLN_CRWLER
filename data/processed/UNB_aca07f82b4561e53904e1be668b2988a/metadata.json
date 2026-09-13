@@ -1,0 +1,16 @@
+{
+  "id": "UNB_aca07f82b4561e53904e1be668b2988a",
+  "titulo": "Avaliação de anticorpos policlonais com potencial uso em diagnóstico de infecções do trato urinário",
+  "titulo_normalizado": "avaliacao de anticorpos policlonais com potencial uso em diagnostico de infeccoes do trato urinario",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNB_aca07f82b4561e53904e1be668b2988a.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNB_aca07f82b4561e53904e1be668b2988a.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/55589/1/ErycaMendesDeAraujo_DISSERT.pdf",
+  "tamanho_bytes": 2008489,
+  "sha256": "ce8640bfda2e171ccd5052f042c11850ae966beb911a06e8d83fc1ddb5c04a9a",
+  "baixado_em": "2026-09-12T19:10:50.435789+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-c4e255d8b0ef1aed"
+}

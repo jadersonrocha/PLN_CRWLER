@@ -1,0 +1,16 @@
+{
+  "id": "UNB_87199803d494d9095476c45e23641847",
+  "titulo": "Óleos vegetais florestais amazônicos enriquecendo biocosméticos sustentáveis",
+  "titulo_normalizado": "oleos vegetais florestais amazonicos enriquecendo biocosmeticos sustentaveis",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNB_87199803d494d9095476c45e23641847.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNB_87199803d494d9095476c45e23641847.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/54898/1/JanainaSantosDoVale_DISSERT.pdf",
+  "tamanho_bytes": 3649805,
+  "sha256": "27c982470c444005e249825b2ed8745b04bfc52451fe7dda2e3669c44e8d8a5e",
+  "baixado_em": "2026-09-12T19:11:09.471090+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-a66717ea6b361932"
+}

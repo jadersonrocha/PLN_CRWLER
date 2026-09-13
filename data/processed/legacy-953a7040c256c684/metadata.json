@@ -1,0 +1,16 @@
+{
+  "id": "legacy-953a7040c256c684",
+  "titulo": "Impacto da terapia periodontal não cirúrgica na qualidade de vida e nos desfechos clínicos periodontais em pacientes com comprometimento sistêmico",
+  "titulo_normalizado": "impacto da terapia periodontal nao cirurgica na qualidade de vida e nos desfechos clinicos periodontais em pacientes com comprometimento sistemico",
+  "tipo": "teses",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "legacy-953a7040c256c684.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\legacy-953a7040c256c684.pdf",
+  "url_origem": null,
+  "tamanho_bytes": 131472,
+  "sha256": "709fd8efa95b55ddda9de50936bf45143c7ffd451fdfb15af6fdfac5982ac136",
+  "baixado_em": "2026-09-09T01:06:29.430552+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-b256998a3e565fb0"
+}

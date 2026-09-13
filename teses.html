@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="Stylo/estilo.css">
+	<title>Teses baixadas | BDTD</title>
+</head>
+<body>
+	<header class="topbar">
+		<a class="marca" href="index.html" aria-label="Voltar ao início">
+			<img class="brasao-ufpi" src="brasao_ufpi.png" alt="Brasão da Universidade Federal do Piauí">
+			<span><strong>UFPI</strong><small>Biblioteca Digital Brasileira<br>de Teses e Dissertações</small></span>
+		</a>
+		<nav class="navegacao" aria-label="Navegação principal">
+			<a href="index.html" class="inicio" aria-label="Início">⌂</a>
+			<a href="index.html#institucional">Institucional</a>
+			<a href="index.html#rede">Rede</a>
+			<a href="index.html#faq">Faq</a>
+		</nav>
+		<span class="marca-direita" aria-hidden="true">✦</span>
+	</header>
+
+	<main class="pagina-documentos">
+		<a class="voltar" href="index.html">← Voltar para a página inicial</a>
+		<div class="titulo-documentos">
+			<div>
+				<p class="rotulo">ARQUIVOS LOCAIS</p>
+				<h1>Teses baixadas</h1>
+				<p class="descricao">Documentos classificados como tese e salvos pelo crawler.</p>
+			</div>
+			<strong class="total-documentos" id="total-documentos">0</strong>
+		</div>
+
+		<label class="filtro-documentos">
+			<span class="sr-only">Filtrar teses</span>
+			<input id="filtro" type="search" placeholder="Filtrar por nome do arquivo">
+		</label>
+		<p class="status-documentos" id="status" aria-live="polite">Carregando documentos...</p>
+		<div class="lista-arquivos" id="lista-arquivos"></div>
+	</main>
+
+	<script>
+		const lista = document.getElementById("lista-arquivos");
+		const filtro = document.getElementById("filtro");
+		const status = document.getElementById("status");
+		const total = document.getElementById("total-documentos");
+		let documentos = [];
+
+		function renderizar() {
+			const termo = filtro.value.trim().toLowerCase();
+			const filtrados = documentos.filter((documento) => documento.nome.toLowerCase().includes(termo));
+			lista.innerHTML = "";
+			status.textContent = `${filtrados.length} documento(s) exibido(s)`;
+
+			if (!filtrados.length) {
+				lista.innerHTML = "<p class=\"vazio\">Nenhuma tese encontrada.</p>";
+				return;
+			}
+
+			filtrados.forEach((documento) => {
+				const item = document.createElement("article");
+				item.className = "arquivo-item";
+				const link = document.createElement("a");
+				link.href = `http://localhost:5000/arquivos/teses/${encodeURIComponent(documento.nome)}`;
+				link.target = "_blank";
+				link.rel = "noopener";
+				link.textContent = documento.nome;
+				item.appendChild(link);
+				lista.appendChild(item);
+			});
+		}
+
+		filtro.addEventListener("input", renderizar);
+		fetch("http://localhost:5000/api/documentos/teses")
+			.then((resposta) => {
+				if (!resposta.ok) throw new Error(`API respondeu com status ${resposta.status}`);
+				return resposta.json();
+			})
+			.then((dados) => {
+				documentos = dados.documentos;
+				total.textContent = dados.total.toLocaleString("pt-BR");
+				renderizar();
+			})
+			.catch((erro) => {
+				status.textContent = `Não foi possível carregar os documentos: ${erro.message}`;
+			});
+	</script>
+</body>
+</html>

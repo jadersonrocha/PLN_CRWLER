@@ -1,0 +1,16 @@
+{
+  "id": "UNB_85272cf5007ddb4ce238b29a92f2e348",
+  "titulo": "Perfil dos egressos e diagnósticos estratégicos : uma análise com base nos dados do Programa de Pós-Graduação em Engenharia Biomédica da UnB Gama (PPGEB/UnB Gama)",
+  "titulo_normalizado": "perfil dos egressos e diagnosticos estrategicos : uma analise com base nos dados do programa de pos-graduacao em engenharia biomedica da unb gama (ppgeb/unb gama)",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNB_85272cf5007ddb4ce238b29a92f2e348.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNB_85272cf5007ddb4ce238b29a92f2e348.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/54667/1/DaianeAlvesDeMelo_DISSERT.pdf",
+  "tamanho_bytes": 6350933,
+  "sha256": "03578c162117a12b2f979b3061a4c8fa6ef1dd3b92b02f4353f7e96695a02f85",
+  "baixado_em": "2026-09-12T19:10:47.022139+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-1b8e73b4df663ef2"
+}

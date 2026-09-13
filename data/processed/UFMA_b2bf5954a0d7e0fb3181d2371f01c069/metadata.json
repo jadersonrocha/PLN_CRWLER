@@ -1,0 +1,16 @@
+{
+  "id": "UFMA_b2bf5954a0d7e0fb3181d2371f01c069",
+  "titulo": "Análise da associação entre a carga de hipersinal na substância branca e o acidente vascular encefálico isquêmico",
+  "titulo_normalizado": "analise da associacao entre a carga de hipersinal na substancia branca e o acidente vascular encefalico isquemico",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UFMA_b2bf5954a0d7e0fb3181d2371f01c069.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UFMA_b2bf5954a0d7e0fb3181d2371f01c069.pdf",
+  "url_origem": "https://tedebc.ufma.br/jspui/bitstream/tede/6807/2/M%C3%81RCIA_SOUSA.pdf",
+  "tamanho_bytes": 12298747,
+  "sha256": "93e4560e34efec66582ff276afb1d164b485fb9a14392d4ce030da2c47b0dcda",
+  "baixado_em": "2026-09-12T18:14:09.058534+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-57ee488b17f408cc"
+}

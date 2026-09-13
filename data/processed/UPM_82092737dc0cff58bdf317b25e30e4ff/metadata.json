@@ -1,0 +1,16 @@
+{
+  "id": "UPM_82092737dc0cff58bdf317b25e30e4ff",
+  "titulo": "Direito global em saúde na perspectiva das doenças raras : um acesso mais equânime ante os desafios de diagnóstico, tratamento e custo dos direitos",
+  "titulo_normalizado": "direito global em saude na perspectiva das doencas raras : um acesso mais equanime ante os desafios de diagnostico, tratamento e custo dos direitos",
+  "tipo": "doctoralthesis",
+  "categoria": "teses",
+  "doi": null,
+  "arquivo": "UPM_82092737dc0cff58bdf317b25e30e4ff.pdf",
+  "caminho_raw": "data\\raw\\documentos\\teses\\UPM_82092737dc0cff58bdf317b25e30e4ff.pdf",
+  "url_origem": "https://adelpha-api.mackenzie.br/server/api/core/bitstreams/898a9f27-6855-4891-b9e0-3eadd501ed68/content",
+  "tamanho_bytes": 1544211,
+  "sha256": "bc9561160cc6bebb1f99b3195d72640a121e1529d88f02e82b2b3a4a72147602",
+  "baixado_em": "2026-09-12T18:10:42.594914+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-aee627ed18bbdcd7"
+}

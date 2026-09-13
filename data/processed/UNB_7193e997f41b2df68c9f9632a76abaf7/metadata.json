@@ -1,0 +1,16 @@
+{
+  "id": "UNB_7193e997f41b2df68c9f9632a76abaf7",
+  "titulo": "Identificação de danos em vigas utilizando parâmetros modais e fusão de dados bayesiana",
+  "titulo_normalizado": "identificacao de danos em vigas utilizando parametros modais e fusao de dados bayesiana",
+  "tipo": "masterthesis",
+  "categoria": "dissertacoes",
+  "doi": null,
+  "arquivo": "UNB_7193e997f41b2df68c9f9632a76abaf7.pdf",
+  "caminho_raw": "data\\raw\\documentos\\dissertacoes\\UNB_7193e997f41b2df68c9f9632a76abaf7.pdf",
+  "url_origem": "https://repositorio.unb.br/bitstream/10482/54794/1/GiovannaFujimuraSoares_DISSERT.pdf",
+  "tamanho_bytes": 9392468,
+  "sha256": "7d371675cd06de905e170bd38290166c183f81c857bf0376fac8c8a02013f217",
+  "baixado_em": "2026-09-12T19:09:42.484422+00:00",
+  "status": "duplicado",
+  "duplicado_de": "legacy-62da6441b1d47360"
+}
