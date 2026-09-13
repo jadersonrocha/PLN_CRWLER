@@ -1,3 +1,10 @@
 
 doc/
 /layout_modelo.png
+!data/.gitkeep
+!data/curated/.gitkeep
+!data/processed/.gitkeep
+!data/raw/.gitkeep
+!data/staging/.gitkeep
+!data/dissertacoes/.gitkeep
+
