@@ -153,7 +153,3 @@ BDTD
 
 ## Observacoes
 
-- PDFs digitalizados podem nao possuir camada textual; esses arquivos aparecem em `falhas_curadoria.json` e exigem OCR.
-- O arquivo `finetuning/qa.jsonl` e criado com status `needs_annotation`; perguntas e respostas precisam ser revisadas antes do treinamento.
-- A divisao entre `train`, `validation` e `test` e feita por documento, evitando vazamento entre chunks do mesmo PDF.
-- Verifique licencas e permissoes de uso dos documentos antes de treinar modelos.
