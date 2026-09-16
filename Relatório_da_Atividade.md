@@ -2,7 +2,8 @@
 Relatório da Atividade de PLN
 
 O Relatorio e Implementação podem ser acompanhadas no repositorio abaixo:
-[github.com/jadersonrocha/PLN_CRWLER](https://github.com/jadersonrocha/PLN_CRWLER)
+[github.com/jadersonrocha/PLN_CRWLER]
+(https://github.com/jadersonrocha/PLN_CRWLER)
 
 1. Carregamento e análise inicial do dataset - (carregar_amostra.py)
    Realizado o carregamento da amostra de teses e dissertações.
@@ -31,4 +32,5 @@ O Relatorio e Implementação podem ser acompanhadas no repositorio abaixo:
    •	Utilizamos valores sequenciais (1.1, 1.2, 1.3, …; 2.1, 2.2, 2.3, …) considerando uma janela de contexto de 6 tokens.
    •	Somamos os embeddings posicionais com os embeddings dos tokens para obter os input embeddings finais, que representam tanto o conteúdo quanto a posição dos tokens no contexto.
 
-A atividade permitiu compreender o fluxo básico de pré-processamento de textos para modelos de linguagem: desde a análise inicial do dataset, passando pela tokenização e geração de pares input-target, até a construção de embeddings de tokens e posicionais. Cada etapa reforçou conceitos fundamentais para o treinamento de modelos do tipo GPT-like.
+A atividade permitiu compreender o fluxo básico de pré-processamento de textos para modelos de linguagem abordando desde a análise inicial do dataset, passando pela tokenização e geração de pares input-target, até a construção de embeddings de tokens e posicionais. 
+
